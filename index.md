@@ -1,8 +1,8 @@
-# Página principal
+# HIBERUS - QUALITY ASSURANCE
 
-Bienvenido a mi sitio web. Aquí puedes encontrar información sobre:
+Reportes de los casos de prueba automatizados para PRISA Media
 
-- [As](as.md)
-- [ElPais](elpais.md)
-- [ElPais](reports/elpais/digital/chrome-desktop/elpais.md)
-- [Ser](ser.md)
+- [Diario As](as.md)
+- [El País](elpais.md)
+- [Cadena Ser](ser.md)
+- [Content API](capi.md)
