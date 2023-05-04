@@ -299,6 +299,10 @@ a:hover { text-decoration: underline; }
   grid-area: c6;
   background-color: #F16882;
 }
+.container7 {
+  grid-area: c7;
+  background-color: #56ba51;
+}
 .wrapper {
   height: auto;
   margin: 0 60px;
@@ -317,7 +321,8 @@ a:hover { text-decoration: underline; }
       "c3"
       "c4"
       "c5"
-      "c6";
+      "c6"
+      "c7";
 }
 .listing li {
   border-radius: 12px;
@@ -365,6 +370,7 @@ a:hover { text-decoration: underline; }
       "c1 c2"
       "c3 c4"
       "c5 c6"
+      "c7"
   }
 }
 @media (max-width: 670px) {
@@ -395,4 +401,10 @@ a:hover { text-decoration: underline; }
   font-weight: bold !important;
   line-height: 1;
   margin-bottom: 160px !important;
+}
+.desactivado {
+    background-color: #5878787 !important;
+}
+.desactivado:hover {
+  transform: scale(1, 1) !important;
 }
