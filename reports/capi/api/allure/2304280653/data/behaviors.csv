@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","01. Peticiones a la API para comprobar las diferentes páginas de noticias","CP01. EL PAIS. Portada. Verificar que se obtiene la portada con sus noticias","1","0","0","0","0"
+"","02. Peticiones a la API para comprobar la búsqueda de assets","CP02. EL PAIS. Búsqueda de assets. Verificar que se obtienen noticias, autores y tags","1","0","0","0","0"
+"","01. Peticiones a la API para comprobar las diferentes páginas de noticias","CP02. AS. Portada. Verificar que se obtiene la portada con sus noticias","1","0","0","0","0"
+"","02. Peticiones a la API para comprobar la búsqueda de assets","CP01. EL PAIS. Búsqueda de assets. Verificar que se obtienen solo noticias","1","0","0","0","0"
+"","02. Peticiones a la API para comprobar la búsqueda de assets","CP03. EL PAIS. Búsqueda de assets. Verificar que se obtienen noticias en inglés","1","0","0","0","0"
+"","01. Peticiones a la API para comprobar las diferentes páginas de noticias","CP03. SER. Portada. Verificar que se obtiene la portada con sus noticias","1","0","0","0","0"

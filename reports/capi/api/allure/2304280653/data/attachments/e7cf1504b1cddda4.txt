@@ -1,0 +1,1763 @@
+{
+    "content": [
+        {
+            "id": "5982504159281152",
+            "type": "story",
+            "genre": "opinion",
+            "uri": "https://elpais.com/america-colombia/2023-03-30/gustavo-petro-y-felipe-gonzalez-primer-ano-de-dos-izquierdistas.html",
+            "headlines": {
+                "uriKicker": {
+                    "uri": "https://elpais.com/noticias/izquierda-socialista/"
+                },
+                "subTitle": "El presidente colombiano tiene de su lado, como hace 40 años el antiguo jefe del Gobierno español, la narrativa de las nuevas generaciones, pero aún no logra persuadir a la mayoría ",
+                "displayKicker": true,
+                "titles": {
+                    "tablet": "",
+                    "print": "",
+                    "meta_title": "",
+                    "native": "",
+                    "web": "",
+                    "mobile": ""
+                },
+                "title": "Gustavo Petro y Felipe González, primer año de dos izquierdistas",
+                "kicker": "Izquierdas"
+            },
+            "comments": {
+                "display": true,
+                "externalId": "1680171314-58ee6f1262c1b8a6c1ed5d9ff60ae895",
+                "type": "eskup"
+            },
+            "metas": {
+                "thumbnail": {
+                    "mime-type": "image/jpeg",
+                    "width": 1500,
+                    "uri": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                    "height": 1000
+                },
+                "description": "El presidente colombiano tiene de su lado, como hace 40 años el antiguo jefe del Gobierno español, la narrativa de las nuevas generaciones, pero aún no logra persuadir a la mayoría"
+            },
+            "author": [
+                {
+                    "signature": "Pedro Viveros",
+                    "tagAuthor": {
+                        "name": "Pedro Viveros",
+                        "normalizedName": "pedro_viveros"
+                    }
+                }
+            ],
+            "updatedDate": 1680171314,
+            "isPremium": false,
+            "contentRestrictions": "Excluido_del_muro",
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 124,
+                                    "uri": "https://imagenes.elpais.com/resizer/vRUrTfkW6J8Xsj5cs9q-H6-X-lA=/124x90/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                    "height": 90
+                                },
+                                "createdDate": 1680121862,
+                                "agency": "Agencias",
+                                "versions": [
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 414,
+                                        "uri": "https://imagenes.elpais.com/resizer/qr3_oUFTT-VzyqdnIHlhtrYWviI=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 276
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 828,
+                                        "uri": "https://imagenes.elpais.com/resizer/06Q4CfLhmajqvrH_JMgbeK-hTPo=/828x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 552
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 414,
+                                        "uri": "https://imagenes.elpais.com/resizer/r_rS5XeagTbvfIRdlZxGnenwaUw=/414x414/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 414
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 414,
+                                        "uri": "https://imagenes.elpais.com/resizer/1aK2SMnfQFDJydP1iPxBfckyThg=/414x311/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 311
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 828,
+                                        "uri": "https://imagenes.elpais.com/resizer/flP6Khjeo1gJyxvdIlQxolEbORQ=/828x621/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 621
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 980,
+                                        "uri": "https://imagenes.elpais.com/resizer/tVRUIQN6ghVNbh507-RcTw_p1DQ=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 735
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 414,
+                                        "uri": "https://imagenes.elpais.com/resizer/NaDymXRwIAyx6B2sWvCa4N-wHNM=/414x233/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 233
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 828,
+                                        "uri": "https://imagenes.elpais.com/resizer/eOg3kxX3-3P7h19V0QlI21RGDoY=/828x466/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 466
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 980,
+                                        "uri": "https://imagenes.elpais.com/resizer/HXaHy73LQNS1CUN5EldAjAenCC4=/980x551/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 551
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 1960,
+                                        "uri": "https://imagenes.elpais.com/resizer/L_9Rg0BlVAlpdngn9HFRVzewA6c=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 1470
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 1960,
+                                        "uri": "https://imagenes.elpais.com/resizer/K44jhQ1UxFTdxL-lnKvTmlfgpUQ=/1960x1103/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 1103
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 290,
+                                        "uri": "https://imagenes.elpais.com/resizer/F7VeDUVqPtOhsEPMg1OFksjhAeA=/290x290/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 290
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 145,
+                                        "uri": "https://imagenes.elpais.com/resizer/wdH41EMRRFN6feL6AiZk8VHp9Ac=/145x145/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 145
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 62,
+                                        "uri": "https://imagenes.elpais.com/resizer/N5ewNrd1wKn1ZNg8rocKVo7Pb5E=/62x45/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 45
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "width": 124,
+                                        "uri": "https://imagenes.elpais.com/resizer/vRUrTfkW6J8Xsj5cs9q-H6-X-lA=/124x90/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7QCOYO4QGRC2RDIQKPLP5VBXBY.jpg",
+                                        "height": 90
+                                    }
+                                ],
+                                "displayDate": 1680121862,
+                                "caption": "El expresidente del Gobierno español Felipe González, y el mandatario colombiano Gustavo Petro.",
+                                "source": {
+                                    "system": "photo center",
+                                    "externalId": "7QCOYO4QGRC2RDIQKPLP5VBXBY"
+                                },
+                                "additionalProperties": {
+                                    "updateDate": "1680121862",
+                                    "showPlayButton": "false"
+                                },
+                                "title": "ESPAÑA - COLOMBIA"
+                            },
+                            "active": true,
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "En la España de 1982 hubo un gobierno que rompió esquemas en fondo y forma. Hoy, 40 años después, nadie duda que la osadía del PSOE para ganar el poder en una sociedad posfranquista y esquiva a ideas socialistas tan vilipendiadas durante más de 30 años de hegemonía del “generalísimo”, fue un deber de la esperanza democrática. Pero no fue fácil. De los 13 años en el poder de <a href=\"https://elpais.com/diario/1993/06/07/espana/739404046_850215.html\">Felipe González,</a> el primer año fue de múltiples dificultades. Las enfrentó y superó interpretando el sentimiento de un cambio de época.\nNo había sorteado las primera horas como presidente del Gobierno cuando a González le correspondió devaluar la peseta (moneda de esos tiempos en España) en un 8%; subir la gasolina un 21%; nacionalizar uno de los grupos económicos más fuertes, Rumasa, que poseía 20 bancos y más de 600 sociedades; además de enfrentar los sindicatos de empresas estatales anquilosadas que impedían la reconversión industrial, ya que desde hacía muchos años sobrevivían de los subsidios que giraba de forma permanente el Estado español; desde la campaña y al iniciar su gestión gubernamental, <a href=\"https://elpais.com/politica/2019/09/19/actualidad/1568907106_294742.html\">el antiguo clandestino Isidoro</a> propuso un cambio a la doctrina de la fuerza pública de ese país. Y, como si fuera poco, la banda terrorista ETA le juró la guerra abierta al PSOE.\nFrente a ese escenario como aterrizaje al primer Gobierno izquierdista español después de una dictadura, le correspondió responder con reformas y más reformas. Privatizó sociedades públicas a pesar de las protestas donde maldecían por haberlo ayudado a llegar al poder. Promovió la llegada de España a la Unión Europea, a pesar de los ataques que el mismo día de la firma de anexión hiciera ETA. Felipe González se presentó, en su primera salida en público, en el fuerte militar donde se había fraguado el fallido golpe de Estado del 23 de febrero de 1981. También promovió<a href=\"https://elpais.com/diario/1986/01/05/opinion/505263603_850215.html\"> un referéndum </a>para ingresar como miembro pleno a la Organización de Tratado Atlántico Norte (OTAN) un grupo de países que en plena Guerra Fría era la antípoda al grupo de países comunistas agrupados en el Pacto de Varsovia.\nPara muchos era un contrasentido. González, el elegido por los socialistas en quien tenían expectativas con la promesa del “gobierno del cambio”, como rezaba el slogan de ese partido cuando ganó por mayoría hace cuatro décadas las elecciones parlamentarias españolas, fue un líder que supo interpretar lo conveniente para esa España, por algo ganó seis elecciones consecutivas, hasta su escandalosa salida por el obvio desgaste de permanecer tanto tiempo en el poder. “El poder corrompe y el poder absoluto corrompe absolutamente”, decía lord Acton.\nA estas alturas el primer Gobierno de izquierda en una Colombia tradicionalmente conservadora y de derecha ha logrado algunas victorias con la coalición parlamentaria que le permite gobernar desde el 7 de agosto pasado, como aprobar la reforma tributaria. Pero como a González, al presidente Gustavo Petro, este resto de primer año los nubarrones no le han faltado. <a href=\"https://elpais.com/america-colombia/2023-03-13/un-golpe-de-realidad-frena-la-ambicion-de-gustavo-petro.html\">Los reveses se están presentado en un país que él lidera,</a> bajo la incertidumbre que provoca en una Colombia íntimamente propensa a las soluciones venidas del status quo. Nada es más permanente que la resistencia a lo nuevo. Algunos dirán que esta comparación no es válida, respetable, para mí el hecho de tener un parangón con un contexto similar por rupturistas, me permite pensar que luego de la aterrizada forzosa por la que está pasando el presidente, sepa leer el momentum por el que pasa su gestión y, por ejemplo, comunique de forma virtuosa los avances de la reforma agraria, o de la ampliación de la cobertura en infraestructura educativa a sectores alejados de las urbes del país, o que se vean los efectos en la economía el ingreso de los subsidios destinados a los más deprimidos para que el consumo ayude a mitigar el golpe de un 2023 oscuro en materia de crecimiento.\nNo es bueno el mensaje radical de <a href=\"https://elpais.com/opinion/2023-03-07/petro-y-la-reforma-sanitaria.html\">las reformas a la salud, pensional, laboral y de justicia</a>. No solo ha logrado unificar a Juan Manuel Santos, Álvaro Uribe, Andrés Pastrana y a César Gaviria, permitió evidenciar improvisación y falta de rigor, e impide moldear acuerdos con aquellos que piensan construir sobre lo construido. La tarea gubernamental no arranca en forma luego de varios meses de la actual legislatura. Fue tal la desnudez en el manejo de estos asuntos centrales para los colombianos y para la agenda de Petro, que incluso pidió tiempo extra a las sesiones extraordinarias que ya habían solicitado este año. <a href=\"https://elpais.com/america-colombia/2023-03-29/la-negociacion-con-el-eln-se-asoma-al-abismo-petro-esta-enfurecido.html\">Las negociaciones con el ELN </a>y la “paz total” que no ha logrado consolidarse y que sufren reveses diarios ante los miles que hoy “publican su opinión” en el mundo virtual que nos desborda a todos. Para no hablar de la “cicatriz en la cara” que le dejan las denuncias contra sus familiares más íntimos.\nFelipe González recondujo su primer año con pragmatismo y pensando más en lo que venía para los españoles -su siguiente slogan de campaña fue: “Por el progreso de la mayoría”- , para lograrlo tuvo que manejar con humildad y voluntad los temas de intereses de los españoles de los 80. Gustavo Petro también tiene de su lado la narrativa de las nuevas generaciones de colombianos para una mejor Colombia, pero aún no logra persuadir a la mayoría.\n¿Le alcanzaran los tres años largos que le quedan de mandato para que sus ideas logren resolver los problemas de Colombia? Hace cuatro décadas Felipe González lo logró.\n<p><strong>Pedro Viveros </strong>es columnista colombiano. @pedroviverost</p>"
+        },
+        {
+            "id": "5584099670491136",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2012/01/27/economia/1327803816_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González participará este sábado en un acto de apoyo a Alfredo Pérez Rubalcaba como precandidato a la Secretaría General del PSOE.",
+                "title": "Felipe González explicita su respaldo a Rubalcaba",
+                "kicker": "Una semana antes del Congreso Federal"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490951427-c9cc31d3227b0bbb29d4ccaf91c905a4",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González participará este sábado en un acto de apoyo a Alfredo Pérez Rubalcaba como precandidato a la Secretaría General del PSOE."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1327669680,
+            "isPremium": false,
+            "contentBody": "El ex presidente del Gobierno Felipe González participará este sábado en un acto de apoyo a Alfredo Pérez Rubalcaba como precandidato a la Secretaría General del PSOE. Justo una semana antes del congreso federal, González participará en un gran acto en Madrid en el que estará también el lehendakari, Patxi López.  Intervendrán también la consejera andaluza Micaela Navarro, la diputada María González, que está ejerciendo de portavoz de la candidatura, y el propio Rubalcaba.\nEl acto será en el invernadero de Arganzuela y el entorno de Rubalcaba pretende \"reflejar la fuerza y el espíritu\" del proyecto, \"en el que se cuenta con todas las generaciones del PSOE y con dirigentes de todos los territorios\"."
+        },
+        {
+            "id": "6520614135267328",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/06/10/economia/1276305830_850215.html",
+            "headlines": {
+                "subTitle": "\"Felipe, de depre nada, no estamos nada deprimidos los socialistas\", ha dicho hoy públicamente el presidente del Gobierno, <b>José Luis Rodríguez Zapatero</b>, al ex presidente Felipe González, en un acto celebrado en el Congreso para conmemorar el centenario del grupo parlamentario socialista.",
+                "title": "Zapatero a Felipe González: \"De depre, nada\"",
+                "kicker": "Centenario del grupo socialista"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490967674-dd53eb53701dd9243340adfba15b141a",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "\"Felipe, de depre nada, no estamos nada deprimidos los socialistas\", ha dicho hoy públicamente el presidente del Gobierno, <b>José Luis Rodríguez Zapatero</b>, al ex presidente Felipe González, en un acto celebrado en el Congreso para conmemorar el centenario del grupo parlamentario socialista."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1276189980,
+            "isPremium": false,
+            "contentBody": "Ambos han compartido mesa de oradores, primero González, quien en su alocución ha hecho notar la \"depre colectiva\" que se detecta cuando las cosas van mal, como pasa ahora con la crisis económica.\nLuego ha intervenido Zapatero, quien tras agradecer el apoyo del grupo socialista al Gobierno, sobre todo en los momentos \"más difíciles\", se ha dirigido al ex presidente y le ha dicho: \"Felipe, de depre nada, no estamos nada deprimidos los socialistas\".\nHa añadido Zapatero que los socialistas van a seguir ejerciendo su \"responsabilidad\" primero para \"superar la crisis, garantizar la estabilidad, la solvencia de nuestro país\", y en segundo término para \"cambiar las cosas que hay que cambiar y permitir que nuestra economía crezca con más productividad y de manera más sostenible\".\n<b>SMS de González a Zapatero: \"Hoy más que nunca tienes todo mi apoyo\"</b>\nEl jefe del Ejecutivo, José Luis Rodríguez Zapatero, ha revelado hoy el mensaje \"más cariñoso\" que ha recibido del ex presidente Felipe González, que llegó a su móvil tras anunciar el plan de ajuste: \"Hoy más que nunca tienes todo mi apoyo. Gobernar es esto: tomar decisiones difíciles y duras\".\nEn la jornada organizada por los socialistas en el Congreso para conmemorar el centenario del escaño de Pablo Iglesias en las Cortes, Zapatero ha intervenido justo después de González y, a pesar de confesar que no le gusta contar anécdotas, ha contado \"un secreto\" que, a su juicio, demuestra la fortaleza del PSOE ante las dificultades.\nEse \"secreto\" era el mensaje de texto que le envió González al móvil el día siguiente de que presentara en el pleno del Congreso los duros recortes con los que el Gobierno quería acelerar la reducción del déficit público.\nSe trataba, según ha señalado, del mensaje \"más cariñoso y de más apoyo\" que le había enviado el ex presidente desde que él le conoce y por eso ha querido hoy contarlo y darle las gracias en público.\nLos parlamentarios, ex ministros y ex diputados y senadores congregados en la sala han celebrado con aplausos sus palabras."
+        },
+        {
+            "id": "5772018649661440",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2016/09/28/economia/1475045361_566702.html",
+            "headlines": {
+                "subTitle": "Pedro Sánchez afirma que respeta la opinión de su antecesor, Felipe González\n“Es el Comité Federal del PSOE el que fijó la posición socialista\", explica",
+                "title": "Felipe González: “Me siento engañado por Pedro Sánchez”",
+                "kicker": "Pactos electorales"
+            },
+            "comments": {
+                "display": true,
+                "externalId": "1475045361-38ad35aee6b5e9408ab714a0e92f3b95",
+                "type": "eskup"
+            },
+            "metas": {
+                "thumbnail": {
+                    "mime-type": "image/jpeg",
+                    "size": 6358,
+                    "width": 140,
+                    "uri": "https://d501.epimg.net/cincodias/imagenes/2016/09/28/economia/1475045361_566702_1475045521_miniatura_normal.jpg",
+                    "height": 100
+                },
+                "description": "Felipe González ha revelado que el secretario general del PSOE, Pedro Sánchez, le dijo en julio que los socialistas se abstendrían en segunda votación de la investidura de Mariano Rajoy."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1475086201,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "id": 1,
+                            "video": {
+                                "still": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 640,
+                                    "uri": "https://d501.epimg.net/cincodias/videos/2016/09/28/economia/1475045361_566702_84359900_fotograma_2.jpg",
+                                    "height": 360
+                                },
+                                "isLive": false,
+                                "accountNameId": "cincodias",
+                                "agency": "atlas",
+                                "streams": [
+                                    {
+                                        "duration": 90600,
+                                        "mime-type": "video/mp4",
+                                        "width": 640,
+                                        "uri": "https://d502.epimg.net/cincodias/videos/2016/09/28/economia/1475045361_566702_1475079576.mp4",
+                                        "height": 360
+                                    }
+                                ],
+                                "videoId": "1475045361_566702_1475079576",
+                                "source": {
+                                    "system": "mediateca",
+                                    "externalId": "551263"
+                                },
+                                "additionalProperties": {
+                                    "showLogo": "true",
+                                    "creationSection": "economia",
+                                    "creationBU": "dias5",
+                                    "showAds": "true",
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "creationSite": "cincodias"
+                                },
+                                "title": "Felipe González: “Me siento engañado por Pedro Sánchez”"
+                            },
+                            "elementType": "elementVideo",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "El expresidente del Gobierno <strong>Felipe González</strong> ha revelado que el secretario general del PSOE, Pedro Sánchez, le dijo en julio que los socialistas se abstendrían en segunda votación de la investidura de Mariano Rajoy para no impedir la formación de Gobierno.\n\"<strong>Y claro, me siento frustrado, como si me hubieran engañado</strong>. No tenía ninguna necesidad\", ha afirmado <a href=\"http://cincodias.com/tag/felipe_gonzalez_marquez/a/\" target=\"_blank\">González</a> en el extracto de una entrevista que anticipa la Cadena SER.\nAsegura que, en la conversación, Sánchez le comentó que en la primera votación el PSOE votaría en contra de Rajoy pero no en la segunda para evitar el bloqueo.\nEl secretario general también le trasladó a González que no tenía intención de formar un gobierno alternativo, como pretende hacer ahora tendiendo la mano a Podemos y Ciudadanos.\nEl expresidente cree que <a href=\"http://cincodias.com/tag/pedro_sanchez_perez_castejon/a/\" target=\"_blank\">Sánchez</a> tendría que dimitir en caso de que el partido fijara una postura sobre la investidura y él no la acata.\n\"En la cultura del partido<strong>, si el Comité Federal fija una posición, la que sea, abstención, no abstención, voto en contra o medio pensionista, esa posición mayoritaria la asume todo el mundo</strong> y si el secretario general no la quiere asumir, obviamente tiene que dimitir\", ha sostenido González.\n<strong>Respuesta de Sánchez</strong>\nEl<strong> secretario general del PSOE, Pedro Sánchez</strong>, ha emitido este miércoles un comunicado en el que afirma que <strong>respeta</strong> la opinión de su antecesor, Felipe González, pero subraya que su rechazo a un Gobierno de Mariano Rajoy es una posición que adoptó el Comité Federal, el máximo órgano del partido entre Congresos.\n“Es el Comité Federal del PSOE el que fijó la posición socialista ante la investidura de Mariano Rajoy, tanto en la legislatura anterior como en la actual”, dice el texto.\nAdemás, subraya que su propuesta es que “<a href=\"http://cincodias.com/tag/psoe_partido_socialista_obrero_espanol/a/\" target=\"_blank\">el PSOE</a> celebre un debate en profundidad y que todos los militantes del PSOE decidan, en un Congreso Federal, sobre el liderazgo y la línea política de los socialistas ante este nuevo tiempo”. Dicha propuesta se debatirá en el próximo Comité Federal, el 1 de octubre.\nSegún afirma, “con ello se pretende dar cauce a un debate de fondo que lleva tiempo instalado en la organización, tomar decisiones colectivas y, una vez que se haya debatido y decidido entre todos y todas, conseguir que el PSOE hable con una sola voz”."
+        },
+        {
+            "id": "4890786520891392",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/12/17/economia/1292725421_850215.html",
+            "headlines": {
+                "subTitle": "El Consejo de Administración de Gas Natural Fenosa ha aprobado el nombramiento por cooptación del expresidente del Gobierno Felipe González como consejero independiente de la sociedad.",
+                "title": "Gas Natural Fenosa incorpora a Felipe González a su consejo de administración",
+                "kicker": "Será consejero independiente"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490972197-1429203c591f0dc41bf3a28b9ad09e91",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El Consejo de Administración de Gas Natural Fenosa ha aprobado el nombramiento por cooptación del expresidente del Gobierno Felipe González como consejero independiente de la sociedad."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1292587920,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2010/10/08/economia/1286673804_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1286545680,
+                                "author": "Efe",
+                                "caption": "Felipe González, ex presidente del Gobierno.",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2010-10-08-economia-1286673804_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "El nombramiento de <b>Felipe González</b>, accionista de la sociedad, se produce en sustitución de José Arcas, consejero independiente, cuya renuncia fue aceptada en la misma sesión del Consejo de Administración.\nSegún <b>Gas Natural Fenosa</b>, la incorporación de Felipe González permitirá a la sociedad energética \"contar con una persona de amplio reconocimiento y prestigio nacional e internacional, especialmente como estadista y experto conocedor de Latinoamérica\".\nFelipe González (Sevilla 1942) es licenciado en Derecho, Doctor Honoris Causa por la Universidad Católica de Lovaina en 1995, por la Universidad de Tolouse en 1998 y por por la Universidad de Tel-Aviv en 2005. Fue el tercer presidente del Gobierno desde la instauración de la democracia en España, desde 1982 a 1996.\nLa remuneración base de un consejero independiente de Gas Natural Fenosa es de 126.500 euros al año, lo que, una vez descontadas las retenciones, queda en 82.000 euros. Esta base puede aumentar si el consejero participa o preside alguna de las distintas comisiones de dirección."
+        },
+        {
+            "id": "5528408104632320",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2012/10/06/economia/1349659405_850215.html",
+            "headlines": {
+                "subTitle": "El expresidente del Gobierno Felipe González ha asegurado hoy que \"no habrá independencia en ningún territorio de España\", y que quien plantee que se llegará a ese escenario estará llevando a la ciudadanía a una 'frustración peligrosa.",
+                "title": "Felipe González: no habrá independencia en ningún territorio de España",
+                "kicker": "Acto del PSE en Barakaldo"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490955339-3cd44772551cb1a705eaf06a9c1da903",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El expresidente del Gobierno Felipe González ha asegurado hoy que \"no habrá independencia en ningún territorio de España\", y que quien plantee que se llegará a ese escenario estará llevando a la ciudadanía a una 'frustración peligrosa."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1349530620,
+            "isPremium": false,
+            "contentBody": "Durante su intervención en un acto del PSE en la localidad vizcaína de Barakaldo, González se ha referido en varias ocasiones a los proyectos independentistas en España, a los que ha considerado un \"desastre\" y una \"regresión\" histórica, y ha criticado que haya un \"nacionalismo centralizador\" que se oponga a otro \"secesionista\".\n\"No habrá independencia en ningún territorio de España\", ha afirmado González, quien ha añadido que quien diga que un proyecto de ese tipo sí es posible \"llevará a los ciudadanos a una frustración peligrosa\".\n\"Quien crea que esa breva está madura, no es verdad\", ha añadido.\nHa dicho que cree en \"la autodeterminación del pueblo español para decidir su futuro\", y que cualquier cambio de la Constitución en este sentido debe hacerse \"con las reglas de juego previstas\".\nGonzález, que ha participado en un acto en apoyo del lehendakari y candidato del Partido Socialista a la reelección, Patxi López, ha lanzado un \"reto\" a Rajoy: si antes de fin de año no cumple su \"único objetivo\", el de controlar el déficit público, debe \"reconocer que en eso también ha fracasado\".\nPara Felipe González \"el problema no son los recortes\", sino que \"con la excusa de los recortes se está desmantelando la cohesión social\".\nHa opinado que España \"no necesita un rescate como Portugal\" ya que sus fundamentos económicos son \"sólidos y fuertes\", aunque el problema es que \"no hay liquidez para funcionar\".\nEl expresidente ha reprochado que en la actual crisis económica \"el sacrificio es desigual y no hay horizonte de salida\" y ha urgido a \"recomponer el crédito para que no se mueran empresas viables\".\nHa dicho que el gobierno debe llamar a la oposición y dejar que le echen una mano, aunque ha puntualizado que para alcanzar un pacto de Estado \"hay que saber proponer cuatro puntos básicos, y eso falta\".\nEn cuanto al terrorismo, Felipe González ha recordado que \"nunca\" hasta ahora había \"hablado en público sin estar sometido a la amenaza del terror\".\nSobre el fin de ETA, ha opinado que la \"gran paradoja\" es que \"parece que se lo debemos a Bildu\", cuando \"la derrota de los violentos ha llegado desde la democracia\".\n\"¿Qué mérito tiene dejar de matar?, ¿qué mérito hay que darles?\", se ha preguntado el expresidente del Gobierno."
+        },
+        {
+            "id": "5746622843584512",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2009/06/11/economia/1244856215_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González admitió hoy un  \"error en el enfoque\" de la campaña electoral de cara a las  elecciones europeas del pasado domingo y que ha fomentado la  abstención.",
+                "title": "Felipe González admite un \"error de enfoque\" en la campaña de las europeas",
+                "kicker": "Elecciones"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490976510-55c4d49da3d07df1781dbc024b4d108b",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González admitió hoy un  \"error en el enfoque\" de la campaña electoral de cara a las  elecciones europeas del pasado domingo y que ha fomentado la  abstención."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1244745660,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2009/06/10/empresas/1244800736_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1244646240,
+                                "author": "EFE",
+                                "caption": "Felipe González",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2009-06-10-empresas-1244800736_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "En el avance de una entrevista con Iñaki Gabilondo adelantado por  Cuatro, el ex presidente dijo que había habido un \"error en el  enfoque de la campaña\". \"Pero ese error no lo pago todo el mundo de  la misma manera porque ese error mas o menos promovido para crear  abstención por parte de la derecha a ellos no les ha pasado factura\",  dijo.\nEn materia de diálogo social, Felipe González acusó al Gobierno de  José Luis Rodríguez Zapatero de estar perdiendo un \"tiempo preciso\"  al no adoptar medidas inmediatas con el \"pretexto\" de consensuar una  reforma laboral con los sindicatos.\nEl Ejecutivo tiene la posibilidad, recordó, de proponer reformas  en esta materia a los interlocutores sociales y llevarlas al  Parlamento y una vez allí, enfatizó, \"que cada uno asuma la  responsabilidad de negarse a apoyar eso\".\nTambién en materia económica, González incidió en la necesidad de  llegar a acuerdos para poder salir de la crisis. \"Un Gobierno sólo,  en cualquier país europeo o de cualquier parte del mundo, no es capaz  de enfrentar la crisis si no tiene consenso, pacto, acuerdo o diálogo  con interlocutores económicos, sociales y políticos\", concluyó."
+        },
+        {
+            "id": "5742027228577792",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/06/10/economia/1276305813_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González cree que el \"abaratamiento del despido probablemente facilitará las cosas desde el punto de vista de la contratación\".",
+                "title": "Felipe González ve probable que abaratar el despido facilite la contratación",
+                "kicker": "La reforma laboral es \"imprescindible\""
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490967666-b2b77371e6cd5a2015f635fbd5dce062",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González cree que el \"abaratamiento del despido probablemente facilitará las cosas desde el punto de vista de la contratación\"."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1276159140,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2009/06/10/empresas/1244800736_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1244646240,
+                                "author": "EFE",
+                                "caption": "Felipe González",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2009-06-10-empresas-1244800736_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "En unas declaraciones a Televisión Española, González ha apuntado, no obstante, que, independientemente de los tipos de indemnización por despido, \"nada ha impedido que hayan desaparecido dos millones de puestos\" de trabajo, con mayor o menor coste para las empresas.\nEn su opinión, la reforma laboral es \"imprescindible\" en España, aunque ha advertido de que, a la hora de plantearla, hay que tener en cuenta que el aparato productivo de este país es distinto al de otros europeos, con una fuerte temporalidad en sectores como el turismo y la construcción en la economía española.\nAdemás, ha considerado que aunque se aspire a aumentar la contratación indefinida, no se debería penalizar la temporalidad que tenga relación con actividades determinadas. \t   Felipe González ha admitido que no conoce a fondo la propuesta del Gobierno para reformar el mercado de trabajo, pero sí cree que debe combatir la dualidad de éste.\nEn cualquier caso, ha recordado que la reforma en sí \"no crea empleo\", porque los puestos de trabajo se generan \"cuando se crece\", aunque cuando eso ocurra sí hay que estar preparados y contar ya con \"un buen mercado laboral\".\nAdemás, ha destacado el hecho de que la economía española \"genera más empleo que ninguna de las europeas en fase de crecimiento\" del mismo modo que \"destruye más empleo que ninguna\" cuando decrece. \t   El ex jefe del Ejecutivo ha defendido, por otra parte, la congelación de las pensiones y ha admitido que él habría hecho lo mismo.\nEn otro momento de la entrevista ha hecho una férrea defensa hacia el sector de la construcción. \t   \"Nado contra corriente\", ha admitido, al señalar: \"tenemos una de las mejores industrias de la construcción del mundo, de las más eficientes del mundo\"."
+        },
+        {
+            "id": "5202688656539648",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2008/12/09/economia/1228962227_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno <b>Felipe González</b> consideró hoy que la crisis financiera mundial ha<b> sorprendido a los líderes políticos \"desentrenados\" </b>después de un periodo en el que se dejó actuar sólo al libre mercado.",
+                "title": "Felipe González cree que la crisis cogió desentrenados a los políticos",
+                "kicker": "Coyuntura económica"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490987287-873ccb22575eb690af1a4e5bb78e5440",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno <b>Felipe González</b> consideró hoy que la crisis financiera mundial ha<b> sorprendido a los líderes políticos \"desentrenados\" </b>después de un periodo en el que se dejó actuar sólo al libre mercado."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1228851840,
+            "isPremium": false,
+            "contentBody": "Felipe González hizo esta reflexión durante su participación esta tarde en un semanario celebrado en la Casa de América de Madrid sobre el papel de las mujeres en los procesos de independencia de los países iberoamericanos.\nEl ex presidente del Gobierno señaló que ahora se reclama a los políticos que arreglen el \"desaguisado\" que parecía que se iba a arreglar sólo con \"la mano invisible del mercado que los apartó\".\n\"Y lo que me temo es que los políticos estemos desentrenados, después de tanto tiempo apartados de la gestión del sistema financiero y de la gestión razonable del marco regulatorio para el mercado diciendo 'ustedes estorban, ya se regula solo, no interfieran'\", aseguró.\nEsto, a su juicio, produce un \"cierto desentrenamiento, como en cualquier equipo deportivo\" cuando pasas tiempo \"en el banquillo\". \"Ahora tenemos que actuar como si no hubiéramos perdido entrenamiento y acertar en un mundo extraordinariamente difícil y convulso lleno de estupideces demagógicas\", añadió González."
+        },
+        {
+            "id": "5400246280519680",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2011/09/29/economia/1317432223_850215.html",
+            "headlines": {
+                "subTitle": "El expresidente del Gobierno Felipe González ha pedido al jefe del Ejecutivo, José Luis Rodríguez Zapatero, que se \"plante\" en el próximo Consejo Europeo para exigir la emisión de eurobonos. \"A mí me parece que España está en condiciones para exigir la emisión de eurobonos, hay que plantarse de verdad\", ha defendido González en los 'Encuentros POR', organizados por la Cadena SER.",
+                "title": "Felipe González pide a Zapatero que se \"plante de verdad\" para exigir los eurobonos",
+                "kicker": "En el próximo Consejo Europeo"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490961614-063c5dedb7b5e4cce14503b5748c9088",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El expresidente del Gobierno Felipe González ha pedido al jefe del Ejecutivo, José Luis Rodríguez Zapatero, que se \"plante\" en el próximo Consejo Europeo para exigir la emisión de eurobonos. \"A mí me parece que España está en condiciones para exigir la emisión de eurobonos, hay que plantarse de verdad\", ha defendido González en los 'Encuentros POR', organizados por la Cadena SER."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1317323640,
+            "isPremium": false,
+            "contentBody": "González ha comparado el beneficio que generarían la emisión de los eurobonos con <b>el impuesto de patrimonio</b>. \"Si con el impuesto de patrimonio se consiguen 1.000 millones, si es que lo recaudamos\", ha razonado, \"con los eurobonos serían 15.000 millones de ahorro\".\nEl exmandatario ha vuelto a defender la \"inversión\" -diferenciándola con el gasto- en <b>salud, educación e I+D</b> y ha reclamado que estas partidas \"no salgan dañadas\" para salir de la crisis económica. González ha apostado por otras medidas de ahorro en la administración como suprimir las diputaciones provinciales o \"agrupar\" los ayuntamientos.\n\"Hagamos recortes, que ahora se llaman ajustes, pero que no se toque a la gente\", ha sostenido González antes de concluir: \"Cuando alguien lo toque, sáquenle por la ventana\".\n<b>Sigue en directo</b> la intervención del expresidente del Gobierno Felipe González: <a href=\"http://www.encuentrospor.com/directo/\" target=\"_blank\">http://www.encuentrospor.com/directo/</a>"
+        },
+        {
+            "id": "4827182752858112",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2009/05/15/economia/1242523420_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno y presidente del Comité de Expertos para la Reforma de la Unión Europea, Felipe González, se mostró hoy confiado en que durante \"los próximos meses\" la coyuntura económica \"general\" tocará \"fondo\".",
+                "title": "Felipe González: \"El G-20 siempre se equivoca\"",
+                "kicker": "Previsiones"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490975695-02fbfeebd3eae61d9f20493fb05aa5b2",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno y presidente del Comité de Expertos para la Reforma de la Unión Europea, Felipe González, se mostró hoy confiado en que durante \"los próximos meses\" la coyuntura económica \"general\" tocará \"fondo\"."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1242399240,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2009/05/15/economia/1242523405_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1242399960,
+                                "author": "EFE",
+                                "caption": "El ex presidente del Gobierno Felipe González",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2009-05-15-economia-1242523405_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "Así lo expuso hoy en Mérida, donde impartió una conferencia titulada ''Energía y crisis''. \"Creo que en los próximos meses vamos a ver como tocamos fondo en la crisis general y global\", opinó.  Al respecto, en tono irónico, argumentó que si el G-20 dice que el futuro \"irá muy mal\", entonces la economía mundial \"irá bien\", pues a su parecer los integrantes de la organización \"siempre se equivocan\".\n<b>Cambio de modelo</b>\nNo obstante, el ex presidente sugirió que para salir de la actual coyuntura económica y financiera, deben de ponerse en marcha medidas, que \"tienen que ver con el cambio del modelo productivo y energético\", advirtió.\nPara que esto ocurra \"tiene que haber políticas de apoyo a I+D+I\" para alcanzar un modelo \"sostenible\", \"tal como lo ha entendido Obama\", según señaló, en \"claro respaldo\" al proyecto basado en energía renovables, que proyecta el presidente de los EEUU, Barack Obama. En este punto, añadió que para conseguir un avance en investigación, desarrollo e innovación y al mismo tiempo un modelo energético que dependa menos de las energías fósiles y desarrolle las \"limpias\", son las \"políticas públicas\" las que han de esforzarse en financiar este proceso.\n\"Uno no puede pedir a la economía privada que lo haga\", observó antes de remachar que, por tanto, \"tienen que ser las políticas públicas acompañadas de las iniciativas privadas\" las que subvencionen nuevas fuentes energéticas.\n<b>Jornadas sobre el cambio climático</b>\nFelipe González se desplazó hoy a Mérida para clausurar las 'Jornadas sobre Bosques, Energía y Cambio Climático en un Contexto de Crisis', acto al que también asistieron el presidente de la Junta de Extremadura, Guillermo Fernández Vara y el presidente de la Asamblea extremeña, Juan Ramón Ferreira.\nPor su parte, el dirigente del Ejecutivo regional, Fernández Vara, quien instó a superar \"el problema mundial\" de la crisis \"entre todos\", agregó que también es \"fundamental en esta labor \"el papel de los líderes mundiales\",aunque a su parecer \"no hay muchos\" políticos como el ex presidente González."
+        },
+        {
+            "id": "5081393000873984",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2023/04/27/legal/1682580810_084140.html",
+            "headlines": {
+                "uriKicker": {
+                    "uri": "https://cincodias.elpais.com/noticias/bufetes-abogados/"
+                },
+                "subTitle": "El experto proviene de KPMG, donde ha sido socio en el departamento de servicios legales financieros",
+                "title": "Ashurst ficha a Alfonso González-Espejo como 'counsel' para liderar el área de derecho público en Madrid",
+                "kicker": "Despachos"
+            },
+            "comments": {
+                "display": true,
+                "externalId": "1682581062-91433a88f183dd9fa9b9260889f8f82d",
+                "type": "eskup"
+            },
+            "metas": {
+                "thumbnail": {
+                    "mime-type": "image/jpeg",
+                    "size": 14522,
+                    "width": 360,
+                    "uri": "https://d501.epimg.net/cincodias/imagenes/2023/04/27/legal/1682580810_084140_1682584467_miniatura_normal.jpg",
+                    "height": 257
+                },
+                "description": "El experto proviene de KPMG, donde ha sido socio en el departamento de servicios legales financieros"
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "Patricia Esteban",
+                        "externalId": "167147",
+                        "normalizedName": "patricia_esteban_lopez_a",
+                        "uri": "https://cincodias.elpais.com/autor/patricia_esteban_lopez/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1682607125,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "size": 32310,
+                                    "width": 720,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2023/04/27/legal/1682580810_084140_1682584467_noticia_normal_recorte2.jpg",
+                                    "height": 529
+                                },
+                                "versions": [
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "size": 173413,
+                                        "width": 1960,
+                                        "uri": "https://d501.epimg.net/cincodias/imagenes/2023/04/27/legal/1682580810_084140_1682584467_noticia_normal_recorte1.jpg",
+                                        "height": 1439
+                                    },
+                                    {
+                                        "mime-type": "image/jpeg",
+                                        "size": 32310,
+                                        "width": 720,
+                                        "uri": "https://d501.epimg.net/cincodias/imagenes/2023/04/27/legal/1682580810_084140_1682584467_noticia_normal_recorte2.jpg",
+                                        "height": 529
+                                    }
+                                ],
+                                "caption": "El nuevo counsel, Alfonso González-Espejo García, junto al Socio director de Ashurst España, Jorge Vázquez Orgaz.",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2023-04-27-legal-1682580810_084140_1682584467_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 2,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "Ashurst refuerza el área de derecho público en Madrid con la incorporación de Alfonso González-Espejo como nuevo <em>counsel</em> en su oficina de Madrid, quien dirigirá el área de Derecho Público del despacho.\nGonzález-Espejo es abogado del Estado y cuenta con una dilatada experiencia tanto en el sector público como en el privado. Como Abogado del Estado ha sido, entre otros, jefe en la Abogacía del Estado en el Ministerio de Administraciones Públicas y también ocupó los cargos de secretario general y secretario del consejo de administración de la Comisión Nacional de Energía. En el sector privado ha sido, entre otros, secretario del consejo de administración, secretario general y director de la asesoría jurídica de Grupo LAR, director del gabinete jurídico de la Secretaría General de Bankia y en los últimos años socio en el departamento de servicios legales financieros de KPMG Abogados, en Madrid.\nEn palabras de Jorge Vázquez Orgaz, socio director del despacho en Madrid: “Alfonso es una excelente incorporación para nuestro equipo de Madrid, ya que aporta una experiencia y conocimientos técnicos que nos permitirán sin duda fortalecer nuestras capacidades en el ámbito del Derecho Público y sectores regulados en España. La experiencia de Alfonso, complementa nuestra práctica actual y mejora aún más nuestra oferta al cliente. Alfonso es un profesional muy respetado, cuya amplia trayectoria lo convierte en idóneo para nosotros. Estamos encantados de que se una al equipo”.\nPor su parte, Alfonso González-Espejo manifestó estar encantado con su incorporación a Ashurst \"donde espero impulsar la práctica de Derecho Público y complementar el extraordinario asesoramiento prestado por Ashurst, entre otras, en operaciones transaccionales en sectores regulados, donde hay una creciente demanda de expertise, como el sector energético o en servicios financieros, así como para desarrollar y asesorar en proyectos de implantación de nuevas normas en sectores regulados que están sujetos a una constante revisión normativa\"."
+        },
+        {
+            "id": "5858191749414912",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/09/27/economia/1285723434_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente español <b>Felipe González</b> ha denunciado hoy que \"en este momento se está incubando la nueva crisis financiera\" y ha lamentado el fracaso de los organismos internacionales en reformar los mercados financieros.",
+                "title": "Felipe González denuncia que se está incubando la nueva crisis financiera",
+                "kicker": "Ha lamentado el fracaso en reformar los mercados"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490970265-f02422a5cf5a7ac7cd706dca5fe09b45",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente español <b>Felipe González</b> ha denunciado hoy que \"en este momento se está incubando la nueva crisis financiera\" y ha lamentado el fracaso de los organismos internacionales en reformar los mercados financieros."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1285615200,
+            "isPremium": false,
+            "contentBody": "\"Yo creo que hoy estamos incubando la siguiente crisis financiera, porque no hay manera de reformar el sistema financiero\", ha lamentado Felipe González durante las jornadas que se están celebrando en el monasterio de Sant Benet de Bages organizadas por la escuela de negocios Esade y la Fundación Caixa Manresa.\nGonzález ha asegurado que \"los intereses son tan fuertes que estamos volviendo a hinchar la burbuja\", y ha lamentado que la relación estado/mercado haya quedado al margen del buen gobierno global y la debilidad de los gobiernos ante los mercados financieros.\n\"Ni siquiera Estados Unidos y Europa se ponen de acuerdo en el G-20 sobre cómo reformar las finanzas mundiales y no creo que haya una propuesta\", ha criticado González en su intervención durante una jornada que está analizando la falta de liderazgo para resolver los problemas internacionales.\nEn opinión del ex presidente, \"el problema es que Europa lleva 15 años sin afrontar problemas estructurales que debería afrontar. Diez años después del Tratado de Lisboa, el 'gap' tecnológico con Estados Unidos es mayor y China empieza a presionar, no sólo en la industria sino también en el I+D. Y todavía no hemos dicho que la estrategia de Lisboa ha fracasado\".\nPara González, el reto radica en que \"tenemos una tarea un poco más keynesiana: hay que reformar el funcionamiento del sistema para salvarlo de sí mismo\".\nAnte esta crisis, ha advertido que \"en los países más desarrollados del mundo, como California, están empezando a añorar el mandarinato chino. Ven que ellos no pueden hacer una refinería, mientras que China hace 25\".\nPara los líderes presentes en este encuentro, que ha reunido un centenar de empresarios, el principal problema radica en cómo se está trasladando el poder de Occidente a los países emergentes, en especial hacia China.\nEn opinión del ex responsable de la política exterior europea, Javier Solana \"hay una enorme transferencia de poder, la mayor desde la Revolución Industrial, cuando en 1945 Gran Bretaña pierde el poder que había acumulado desde el siglo XIX y hay que adaptarse a la nueva relación en la que el poder está migrando a países que no son occidentales y que no hablan inglés\".\n\"Hay que ver qué hacemos con China: competimos, cooperamos, nos confrontamos o claudicamos. Evidentemente, la última no ha de ser contemplada pero China acaba de entrar con una oferta para infraestructuras en Polonia que es imbatible pero China tiene compromisos con la UE, que no ha cumplido. Y hay que obligarle a hacerlo\", ha defendido hoy Solana.\nPor su parte, Jordi Pujol ha apuntado que la actual crisis económica debería aprovecharse para reforzar las instituciones, en especial las europeas para que de ahí salga una UE fortalecida.\nAdemás, el ex presidente del Banco Iberoamericano de Desarrollo, Enrique Iglesias, ha advertido que \"esta crisis es de lenta salida, \"el mundo todavía no ha percibido que de este baile se sale lentamente\" y ha apuntado que, como en otras recesiones, los norteamericanos saldrán antes si bien al hacerlo lentamente perjudicará a factores como la recuperación del empleo."
+        },
+        {
+            "id": "5480416945373184",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/06/24/economia/1277515428_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González se ha rebelado hoy contra la imposición de la <b>edad de jubilación</b> y ha pedido que se deje a los mayores seguir trabajando si quieren hacerlo.",
+                "title": "Felipe González se rebela contra la imposición de la edad de la jubilación",
+                "kicker": "\"No me da la gana de parar\""
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490968028-2991a0fc3eda5d3841108c1cb87317e4",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González se ha rebelado hoy contra la imposición de la <b>edad de jubilación</b> y ha pedido que se deje a los mayores seguir trabajando si quieren hacerlo."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1277396400,
+            "isPremium": false,
+            "contentBody": "Así de contundente se ha expresado el actual presidente del Grupo de Reflexión del Consejo Europeo en la presentación del libro que él mismo prologa <b>\"La Unión Europea ante los grandes retos del siglo XXI\"</b>, editado por la Fundación Alternativas.\nDurante su intervención, centrada en la crisis económica que ha golpeado especialmente a Europa, González se ha referido a la polémica sobre la edad de jubilación y ha dicho: \"nos tienen que dejar a los viejos que si queremos seguir trabajando, sigamos\".\nTras preguntarse si hay alguien que tenga derecho a decirle a una persona que deje de trabajar, ha opinado que quien lo haga está interpretando erróneamente los derechos y libertades de la Constitución, de la española y de la de todo el mundo.\n\"No me da la gana de parar. ¿Quién puede decirme que lo tengo que hacer obligatoriamente?\", ha continuado González antes de recordar que la esperanza de vida de los europeos sigue subiendo y la incorporación a la vida laboral disminuyendo, lo que no es fácilmente sostenible.\nEn su discurso, González ha aplaudido la supresión del denominado \"cheque-bebé\" por entender que no ha contribuido a facilitar la incorporación de la mujer al mercado laboral ni a incrementar la natalidad, algo necesario en Europa para <b>aumentar la</b> <b>población activa</b>.\nDe hecho, ha asegurado que no conoce a ninguna mujer que haya decidido tener un hijo por 2.500 euros, pero ha dejado claro que una buena política asistencial y de guarderías facilitaría la incorporación de las mujeres al trabajo y un mayor número de nacimientos.\nTambién se ha referido a la <b>congelación de las pensiones</b> y ha abogado por no confundir a los ciudadanos diciendo que el freno al crecimiento de estas retribuciones está relacionado con el ajuste fiscal, ya que las cuentas de la Seguridad Social no tienen que ver con ello.\nHay que decir la verdad, \"y la verdad es que no es por el ajuste presupuestario por lo que hay que hacer algo para que dentro de 25 años la caja de las pensiones no nos reviente\", ha apostillado.\nEn relación a la crisis económica y su repercusión en los países de la UE, González ha criticado el \"ensimismamiento\" de Europa, que durante mucho tiempo ha mirado \"para dentro\" y \"se ha gastado lo que va tener que pagar en los próximos 30 años\".\nMientras tanto, <b>países emergentes</b>, como China o Brasil, ha ahorrado lo que nos van a poder comprar al mundo occidental durante 30 años.\n\"O se avanza o se puede ir todo al garete\", ha enfatizado González antes de recordar que algo ha cambiado en el mundo para que Europa \"deje de ser centro\" y de desear que \"ojalá no lleguemos a ser ese extremo occidental euroasiático prescindible en los mapamundi\".\nFelipe González ha apostado por la política \"con mayúsculas\", a la que se ha ido \"arrinconando\", pero ahora, ha dicho, se vuelve a recurrir a ella para que acuda al rescate de los mercados financieros.\nPrecisamente, ha aludido a la cifra de rescate que han tenido que desembolsar algunos gobiernos y ha explicado que la de España es bastante inferior a la de Francia o Alemania, un país este último que ha desembolsado 430.000 millones y encima \"los bancos no le han querido clarificar las cuentas\".\nRespecto a Alemania, ha arremetido contra su actual Gobierno, que ha contrapuesto con el de Helmut Kohl, que quería una Alemania europea mientras que el actual Ejecutivo de <b>Angela Merkel</b> lleva a cabo un proyecto de una Europa alemana.\nTambién ha criticado el recorte que \"innecesariamente\" ha hecho Alemania y ha reprochado al Gobierno de este país por no haber liderado en Europa las políticas activas a pesar de haber tenido margen para hacerlo."
+        },
+        {
+            "id": "6660968767553536",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2012/07/04/mercados/1341617212_850215.html",
+            "headlines": {
+                "subTitle": "El expresidente del Gobierno Felipe González ha afirmado este miércoles que cualquier persona siente \"envidia\" al ver al consejero delegado de Barclays, Bob Diamond, \"dando cuentas\" en el Parlamento británico tras el escándalo de la manipulación de los tipos de interés del mercado interbancario londinense (Libor) que ha salpicado a dicha entidad.",
+                "title": "Felipe Gonzalez aplaude que el consejero delegado de Barclays de cuentas al parlamento británico",
+                "kicker": "TVE recoge las declaraciones del expresidente"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490954076-ea3e1dd737ac47fae70305f7a4337902",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El expresidente del Gobierno Felipe González ha afirmado este miércoles que cualquier persona siente \"envidia\" al ver al consejero delegado de Barclays, Bob Diamond, \"dando cuentas\" en el Parlamento británico tras el escándalo de la manipulación de los tipos de interés del mercado interbancario londinense (Libor) que ha salpicado a dicha entidad."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1341403320,
+            "isPremium": false,
+            "contentBody": "En una entrevista concedida a TVE, Felipe González ha afirmado que \"Alguna envidia siente uno si en el Parlamento británico hoy ya está el consejero delegado de Barclays dando cuentas\", al tiempo que ha tachado de\"absurda\" la \"negativa\" del Gobierno a que los responsables de Bankia \"vayan al Parlamento a explicar las cosas\"\n\"Sería bueno que el Ejecutivo informara un poco más a los ciudadanos españoles de lo que quiere hacer, por donde van, y que funcionara un poco más el Parlamento\", ha enfatizado el expresidente, quién considera que existe un  \"fallo de funcionamiento de la democracia representativa\", donde \"El Parlamento está para pedir explicaciones a cualquier responsable\".\n\"¿Por qué no han pasado los responsables de la crisis financiera por el Parlamento?\". \"Antes de pedir comisiones de investigación que se derivaran de las explicaciones que den, tienen que ir, tienen la obligación. El gobierno tiene la obligación de explicar y yo no sé lo que va a hacer\", ha apostillado.\nAdemás, Felipe Gonzalez ha defendido la posición del PSOE en este sentido, ya que considera que \"desde el primer minuto\" los socialistas solicitaron que los responsables de Bankia y del Banco de España dieran explicaciones ante el Parlamento y que \"cuando dijeron que no...pidieron una comisión de investigación\"."
+        },
+        {
+            "id": "4596746013376512",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2017/02/14/economia/1487069781_292464.html",
+            "headlines": {
+                "subTitle": "“Me inquieta, no tengo ninguna seguridad”, ha dicho González",
+                "title": "Felipe González: “Mienten quienes dicen que las pensiones están garantizadas”",
+                "kicker": "Foro Cinco Días"
+            },
+            "comments": {
+                "display": true,
+                "externalId": "1487069781-df471e0a33c74c3f708a70af92f6f52e",
+                "type": "eskup"
+            },
+            "metas": {
+                "thumbnail": {
+                    "mime-type": "image/jpeg",
+                    "size": 6499,
+                    "width": 140,
+                    "uri": "https://d501.epimg.net/cincodias/imagenes/2017/02/14/economia/1487069781_292464_1487069891_miniatura_normal.jpg",
+                    "height": 100
+                },
+                "description": "El expresidente del Gobierno Felipe González ha asegurado que los  gurús” que dicen que la situación de las pensiones se va resolver, “simplemente mienten”."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1487108521,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "size": 41241,
+                                    "width": 664,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2017/02/14/economia/1487069781_292464_1487069891_noticia_normal.jpg",
+                                    "height": 442
+                                },
+                                "author": "Pablo Monge",
+                                "caption": "El ex presidente del Gobierno, Felipe González (derecha) junt con el presidente de Asturias, Javier Fernández, y la ex vicepresidente del Gobierno, María Teresa Fernñandez de la Vega",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2017-02-14-economia-1487069781_292464_1487069891_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                },
+                                "photoAlt": "Felipe González"
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "El expresidente del Gobierno<strong> Felipe González</strong> ha dicho este martes que no se puede afirmar que el sistema de pensiones esté garantizado en los próximos treinta años y ha asegurado que los \"gurús” que dicen que la situación de las pensiones se va resolver, “simplemente mienten”.\nEn el foro “El sistema público de pensiones: aportaciones a un debate” y ante la presencia de la ministra de Empleo, Fátima Báñez, González ha señalado que le “inquieta” quienes sustentan que el sistema de pensiones está garantizado y ha subrayado que estas afirmaciones carecen de fundamento y quienes las defienden pretenden “vender una mercancía averiada, con otros propósitos”.\nGonzález ha considerado que hay muchas cosas que revisar y ha expresado su “inquietud” por el hecho de que se ajusten los Presupuestos Generales, la Seguridad Social entre en déficit pero se mantenga el modelo y los más desfavorecidos sufran los ajustes.\nEl expresidente ha insistido en que quería lanzar un mensaje de “negar afirmaciones rotundas” y ha cuestionado a quienes dicen que se va a un sistema mixto en el que cobrarán peso los fondos de pensiones voluntarias.\n“Me inquieta, no tengo ninguna seguridad”, ha dicho González que sí se ha mostrado plenamente convencido de que hay fallos en el sistema.\nGonzález ha admitido que las pensiones son un gran desafío en España y ha exigido “mantener la dignidad” del sistema y eso, ha dicho, es un “compromiso moral”.\nNo obstante, el expresidente ha pedido que no se “aterrorice” a la gente diciéndole que se busque la vida para sobrevivir.\nEl foro, organizado por Cinco Días, ha sido promovido por la Fundación de los Trabajadores de la Siderurgia Integral y el Memorial Luis Martínez Noval.\nPor ello, también ha tenido una intervención previa el presidente de Asturias, Javier Fernández, quien ha elogiado la figura del que fuese ministro de Trabajo Luis Martínez Noval con Felipe González.\nFernández ha valorado que la política económica de Martínez Noval llevase implícita un objetivo social y también que intentase demostrar la superioridad de los sistemas de reparto contributivos y los de capitalización.\nEl presidente asturiano ha comentado que no sabe qué pensaría hoy Martínez Noval de la situación del sistema de pensiones pero seguro que estaría dispuesto a “revisar sus posiciones”."
+        },
+        {
+            "id": "5154560276430848",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/07/16/economia/1279416219_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente español Felipe González <b>ha defendido este jueves que la reforma laboral</b> puesta en marcha por el Gobierno \"todavía está en la fase inicial\", por lo que ha abogado por \"hacer unas cuantas cosas sustanciales\". A preguntas de los periodistas en Santander, González ha confesado que le <b>\"gustaría\" que hubiera un contrato de carácter indefinido</b> \"sin demasiada literatura\", \"que sea único y que sea claro\".",
+                "title": "Felipe González pide un contrato indefinido \"sin demasiada literatura, único y claro\"",
+                "kicker": "Ve la reforma en \"fase inicial\""
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490968609-f14eee652131eb23bb748f9a7ecedcbf",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente español Felipe González <b>ha defendido este jueves que la reforma laboral</b> puesta en marcha por el Gobierno \"todavía está en la fase inicial\", por lo que ha abogado por \"hacer unas cuantas cosas sustanciales\". A preguntas de los periodistas en Santander, González ha confesado que le <b>\"gustaría\" que hubiera un contrato de carácter indefinido</b> \"sin demasiada literatura\", \"que sea único y que sea claro\"."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1279287180,
+            "isPremium": false,
+            "contentBody": "En la misma línea, se ha mostrado partidario de que la temporalidad sea \"causal\" y que se tuviera en cuenta \"la estructura productiva\" de España, para que \"no se cometieran errores\".\n\"Penalizar la temporalidad como tal no me parece razonable; penalizar el fraude de ley que utiliza la temporalidad es razonable\", ha manifestado el ex presidente del Gobierno, quien ha recordado que en nuestro país hay una estructura productiva \"muy ligada\" a la temporalidad.\nAsí, se ha referido al sector turístico, que \"es temporal o no es nada\". \"Y parece que (el turismo) tiene interés para España\", ha apostillado.\nFelipe González se ha expresado así en un encuentro con los medios de comunicación previo a su participación en la jornada 'Juan Luis Cebrián: el futuro desde la Transición', impulsada por la Fundación Instituto Cultura del Sur y que se ha celebrado en la Universidad Internacional Menéndez Pelayo (UIMP) de Santander."
+        },
+        {
+            "id": "4558186400972800",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2009/09/08/economia/1252545819_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno español Felipe González ha asegurado que para él \"sería un honor\" ser el presidente permanente de la Unión Europea (UE), aunque ha negado que vaya a presentarse como candidato al cargo.",
+                "title": "Felipe González: \"Sería un honor presidir la UE, pero no seré candidato\"",
+                "kicker": "Entrevista"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490978779-40af77d51fe584da315adeaecafb71b2",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno español Felipe González ha asegurado que para él \"sería un honor\" ser el presidente permanente de la Unión Europea (UE), aunque ha negado que vaya a presentarse como candidato al cargo."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1252414500,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2009/06/10/empresas/1244800736_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1244646240,
+                                "author": "EFE",
+                                "caption": "Felipe González",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2009-06-10-empresas-1244800736_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "En una entrevista publicada hoy por el <a href=\"http://www.ft.com/cms/af1f4356-e399-11dc-8799-0000779fd2ac.html?_i_referralObject=9267343&amp;fromSearch=n\" target=\"_blank\">diario británico <i>Financial Times</i></a> , González desmiente de esta forma los rumores que en los últimos meses le han apuntado como posible candidato a la presidencia permanente de la UE, un cargo que establece el Tratado de Lisboa, aprobado en diciembre de 2007 y bloqueado actualmente tras ser rechazado en referéndum en Irlanda.\n\"La presidencia permanente es una novedad que puede ser muy útil para el futuro de la UE y para mí sería un gran honor ejercerla, pero no me presentaré como candidato\", ha puntualizado el ex presidente español.\nPreguntado sobre los rumores sobre la eventual candidatura del ex primer ministro británico Tony Blair, González se ha limitado a subrayar que se trata de \"una fuerte personalidad en la política comunitaria\".\nEn la actualidad, Felipe González dirige el Grupo de Reflexión sobre el futuro de la Unión Europea, un órgano creado en diciembre de 2008 y cuya función es asesorar a los gobernantes e instituciones europeas ante los desafíos que se avecinan en el horizonte 2020-2030.\nSegún el político, la UE está perdiendo competitividad en el contexto internacional por su elevado alto de rigidez, sobre todo cultural.\n\"En Europa hay una serie de intereses establecidos, ya sean económicos, industriales, políticos o sindicales, que no permiten poner en marcha nuevas iniciativas que reflejen más fielmente la situación actual\", ha indicado el ex dirigente socialista.\nAdemás, ha señalado que el sistema educativo europeo también juega en contra del progreso de la Unión, ya que \"no prepara a los jóvenes para aportar valor a la sociedad, sino tan sólo para tener conocimientos a nivel individual\".\nRespecto al futuro de Europa, el ex presidente ha advertido de que sólo se vislumbrará un futuro esperanzador si los líderes políticos \"se dan cuenta del papel que debe jugar la UE en la globalización\".\nEn cualquier caso, González ha desmentido que Europa esté pasando por su peor momento: \"la crisis actual sobre la idea de Europa no es excepcional, es algo que pasa cada cierto tiempo, el único problema es que ahora ha llegado en un momento muy delicado por la crisis\"."
+        },
+        {
+            "id": "5529232604135424",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2010/04/23/economia/1272158617_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente Felipe González ha reclamado hoy en Zaragoza, donde ha recogido el Premio Internacional Aragón 2010 por su contribución al fortalecimiento de Europa, que en la Unión Europea falta un \"liderazgo compartido\" para enfrentar la crisis económica y coordinación de las políticas nacionales.",
+                "title": "Felipe González pide a la UE un liderazgo compartido para salir de la crisis",
+                "kicker": "También coordinar las políticas nacionales"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490966303-6bb475d361bd103c59ff5ff01d6f0148",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente Felipe González ha reclamado hoy en Zaragoza, donde ha recogido el Premio Internacional Aragón 2010 por su contribución al fortalecimiento de Europa, que en la Unión Europea falta un \"liderazgo compartido\" para enfrentar la crisis económica y coordinación de las políticas nacionales."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1272027600,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2010/03/22/economia/1269397407_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1269281820,
+                                "author": "Efe",
+                                "caption": "El ex presidente del Gobierno Felipe González",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2010-03-22-economia-1269397407_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "En una intervención para agradecer el premio que el Gobierno de Aragón le ha concedido junto al político francés Jacques Delors, el político español ha expuesto cuales son sus preocupaciones sobre la situación de la Unión Europea y el efecto que puede tener en el continente la crisis económica.\nDurante una media hora, González ha rechazado el pesimismo que, a su juicio, hay en las nuevas generaciones de europeos y ha señalado que los \"estados de ánimo\" de los ciudadanos van a decidir el futuro del mundo, que no son igual en China, la India o Brasil, donde piensan que van a tener más oportunidades que sus padres, que en Europa, donde se piensa lo contrario.\nA su juicio, Alemania debe ejercer su liderazgo, hay que actuar con una sensación de emergencia, pero con confianza y optimismo, y ha advertido de que la crisis, la mas grave desde la de 1929, está lastrando más a Europa que a Estados Unidos y a los países asiáticos, hacia donde se desplaza del poder del mundo.\nFelipe González ha reclamado asimismo la reforma \"de verdad\" del sistema financiero, y en España también de las cajas, y ha alertado de que los recursos que se han inyectado para afrontar la crisis financiera han supuesto 17.1 puntos del PIB europeo.\nSi se sigue funcionando \"como un casino global\" se está incubando la próxima crisis, ha añadido González, quien ha lamentado que los bancos siguen vendiendo los mismos productos y que lo único que han cambiado es que han cortado el crédito."
+        },
+        {
+            "id": "4607023778889728",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://elpais.com/politica/2019/11/14/actualidad/1573730322_550393.html",
+            "headlines": {
+                "uriKicker": {
+                    "uri": "https://elpais.com/tag/gobierno_espana/a"
+                },
+                "subTitle": "El expresidente Felipe González critica que se repartan los cargos del Gobierno antes de acordar un programa",
+                "title": "Felipe González: “Como los jóvenes, yo también siento orfandad representativa”",
+                "kicker": "Gobierno de España"
+            },
+            "comments": {
+                "display": true,
+                "externalId": "1573741147-00ae6a4ae0fd6b250c95321ff1d7e33c",
+                "type": "eskup"
+            },
+            "metas": {
+                "thumbnail": {
+                    "mime-type": "image/jpeg",
+                    "size": 14023,
+                    "width": 360,
+                    "uri": "https://ep01.epimg.net/politica/imagenes/2019/11/14/actualidad/1573730322_550393_1573730702_miniatura_normal.jpg",
+                    "height": 257
+                },
+                "description": "El expresidente Felipe González critica que se repartan los cargos del Gobierno antes de acordar un programa"
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "epauth": "jordipc",
+                        "name": "Jordi Pérez Colomé",
+                        "externalId": "162245",
+                        "normalizedName": "jordi_perez_colome_a",
+                        "uri": "https://elpais.com/autor/jordi_perez_colome/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1573764994,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "id": 1,
+                            "video": {
+                                "still": {
+                                    "mime-type": "image/jpeg",
+                                    "size": 69539,
+                                    "width": 980,
+                                    "uri": "https://ep01.epimg.net/politica/imagenes/2019/11/14/actualidad/1573730322_550393_1573758095_noticia_fotograma.jpg",
+                                    "height": 552
+                                },
+                                "isLive": false,
+                                "accountNameId": "elpais",
+                                "author": "Iago Cortón | VÍDEO: EFE",
+                                "streams": [
+                                    {
+                                        "duration": 161160,
+                                        "mime-type": "video/mp4",
+                                        "width": 854,
+                                        "uri": "https://elpaisfs.prisasd.com/elpaistop/multimedia/201911/14/20191114185515716_1573754184_video_1800.mp4",
+                                        "height": 480
+                                    }
+                                ],
+                                "caption": "Desde la izquierda: Rocío Martínez-Sampere, directora de la Fundación Felipe González, Felipe González, expresidente del Gobierno, Belén Barreiro, y María Freitas. En vídeo, intervención de González durante el acto.",
+                                "videoId": "20191114185515716",
+                                "source": {
+                                    "system": "mediateca",
+                                    "externalId": "578168"
+                                },
+                                "additionalProperties": {
+                                    "showLogo": "true",
+                                    "creationSection": "actualidad",
+                                    "creationBU": "ep",
+                                    "showAds": "true",
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "creationSite": "politica"
+                                },
+                                "title": "“Como los jóvenes, yo también siento orfandad representativa”"
+                            },
+                            "elementType": "elementVideo",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "El expresidente Felipe González espera que el próximo Gobierno vaya más allá del eje tradicional de izquierdas y derechas: “Ojalá hagamos un Gobierno estable y con mayorías, no solo de izquierdas o de derechas y de bloques”. El exlíder del PSOE ha aclarado que los problemas \"no se resuelven con bloques” que lleva a los votantes a los extremos. “Si creen que se van a solucionar solo con el eje izquierda y derecha se van a equivocar, por un lado y por otro”, ha añadido para advertir de una hipotética “crisis de Estado” si las cosas no se arreglan.\nGonzález ha declinado comentar detalles <a href=\"https://elpais.com/politica/2019/11/12/actualidad/1573560059_012843.html\">del pacto de Gobierno entre Unidas Podemos y el PSOE</a> porque aún no tiene \"elementos suficientes” para juzgarlo, aunque sí lo hará “como militante”. Ha advertido que hay algo que no le gusta: la premura en anunciar quién tendrá cargos. “Después de discutir tantas veces que lo primero que hay que hacer es ponerse de acuerdo en un programa, lo que sabemos por ahora es cómo se reparten los cargos. Eso es construir la casa desde arriba\", ha criticado. Sin embargo, para González el acuerdo puede facilitar la gobernabilidad, porque \"si tienen un carguito pelean menos otras cosas”.\nLa presión “inmediática” y “banal”, en palabras de González, para referirse a la actualidad, le ha llevado a comentar el pacto de Gobierno durante su intervención en la presentación de un informe de su fundación titulado <em>Jóvenes, Internet y democracia</em> en el CaixaFórum de Madrid.\n“Los jóvenes sienten orfandad representativa, que les aleja del deseo de votar. También la siento yo, que no creo que esté entre los mileniales”, ha dicho el expresidente. Pero eso no le impedirá ir a votar todas las veces que se lo pidan: “Aunque hagan una votación cada tres meses voy a ir a votar para compensar por todos los años que no me dejaron votar”, ha añadido.\n<a href=\"https://elpais.com/politica/2019/11/12/actualidad/1573578374_243966.html\">La situación en Cataluña también ha merecido palabras de González</a>: “En Cataluña los que no están con el independentismo no son libres o lo son como muchos disidentes en Cuba“, ha dicho. También ha defendido la Constitución y el trabajo que se hizo durante la Transición. “Todavía quedamos supervivientes de aquellos acuerdos”, ha dicho. “Veo que hay defensores de la Constitución que no creen en la Constitución. Los constitucionalistas tienen que serlo de verdad, en letra y espíritu. No pueden usarla como un instrumento militante para descalificar a otro”, ha explicado.\nGonzález ha insistido en la importancia de poner la construcción europea al mismo nivel de importancia que el eje izquierda y derecha, y lo ha explicado con un recuerdo de su época en el Gobierno: “Siempre me entendí mejor en la construcción europea con [el democristiano] Helmut Kohl que con los laboristas británicos”, ha afirmado. “Esta es la posición de un jubilado”, ha concluido. González lleva más de dos décadas fuera de la política activa.\nA la entrada al acto, González ha declarado que un pacto constitucionalista como el que propone el también expresidente José María Aznar \"no es incompatible\" con el acuerdo alcanzado este martes entre Unidas Podemos y el PSOE para un Gobierno de coalición. Además, ha revelado que aún no ha felicitado al presidente del Ejecutivo, Pedro Sánchez, por los resultados obtenidos en las elecciones del 10 de noviembre, <a href=\"https://elpais.com/politica/2019/11/10/actualidad/1573408845_480089.html\">en las que el PSOE resultó ganador, pese a perder 700.000 votos y tres diputados</a>. \"No lo consideraba necesario\", ha añadido. \nIbarra abandonará el PSOE si Sánchez gobierna con Iglesias\nEl expresidente de la Junta de Extremadura Juan Carlos Rodríguez Ibarra ha estado presente en el acto de la Fundación Felipe González, tras el que ha insistido en que abandonará las filas socialistas si finalmente Pedro Sánchez \"forma Gobierno con Unidas Podemos, ERC y los independentistas\". Ibarra ya hizo esta advertencia en 2016, aunque finalmente los socialistas se abstuvieron para facilitar la investidura de Mariano Rajoy. El histórico dirigente, muy crítico con la política del Ejecutivo en Cataluña, es afiliado del PSOE desde hace 43 años y presidió la Junta de Extremadura entre 1982 y 2007."
+        },
+        {
+            "id": "6228887742709760",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2012/08/18/mercados/1345505203_850215.html",
+            "headlines": {
+                "subTitle": "El expresidente del Gobierno Felipe González ha pedido a Alemania que apoye a España ante la actual situación financiera y ha señalado que \"ahora más que nunca Alemania necesita a Europa\".",
+                "title": "Felipe González pide a Alemania que apoye a España",
+                "kicker": "El expresidente dice que hay que evitar el pago de intereses altos por la especulación"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490954687-a75a6497502648e9defe358b5ec0934a",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El expresidente del Gobierno Felipe González ha pedido a Alemania que apoye a España ante la actual situación financiera y ha señalado que \"ahora más que nunca Alemania necesita a Europa\"."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1345290720,
+            "isPremium": false,
+            "contentBody": "\"Alemania debe apoyar el cambio de la actual política monetaria para evitar que España pague unos intereses excesivamente altos, como resultados de la especulación\", ha indicado González.\nEn un artículo publicado en el diario alemán 'Bild' recogido por Europa Press, González ha indicado que el diseño de la unión monetaria fue \"erróneo o imperfecto\" y \"lo que era bueno para Alemania era malo para España\".\nAdemás, González ha expresado su deseo de que Alemania \"cumpla su compromiso con Europa\" para que se pueda \"salir de la crisis reforzados\" y que sea el preámbulo de una unidad política \"necesaria\".\nNo obstante, González pide que su \"opinión no sea mal interpretada\" y España tiene que continuar \"corrigiendo los errores\" causados en épocas anteriores que han derivado en la actual situación del sistema financiero.\nPor último, el expresidente ha subrayado su papel en la integración de España en la UE. \"Pertenezco a la generación de líderes políticos que han vivido la caída del muro de Berlín y la firma del Tratado de la Unión Económica y Monetaria\"."
+        },
+        {
+            "id": "5667937230782464",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2009/05/22/empresas/1243159151_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González consideró hoy que el  también socialista José Luis Rodríguez Zapatero podría hacer más para  salir de la crisis. Ante los rumores de que pueda ser candidato a  presidir la UE, González negó tal posibilidad y afirmó que trabaja  intensamente en la campaña europea con \"esa inmensa libertad que da  no pedir el voto para unos o para otros\"",
+                "title": "Felipe González cree que el Gobierno y Europa podrían hacer \"mucho más\" contra la crisis",
+                "kicker": "Junta de accionistas"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490975888-5cb5f9072a8e0953995f3c639df86a9f",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González consideró hoy que el  también socialista José Luis Rodríguez Zapatero podría hacer más para  salir de la crisis. Ante los rumores de que pueda ser candidato a  presidir la UE, González negó tal posibilidad y afirmó que trabaja  intensamente en la campaña europea con \"esa inmensa libertad que da  no pedir el voto para unos o para otros\""
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EP",
+                        "externalId": "89616",
+                        "normalizedName": "ep_europa_press_a",
+                        "uri": "https://cincodias.elpais.com/autor/ep_europa_press/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1243003140,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2009/03/18/economia/1237515809_740215_0000000001_noticia_normal.jpg",
+                                    "height": 250
+                                },
+                                "createdDate": 1237396200,
+                                "author": "Reuters",
+                                "caption": "Felipe González y Rodríguez Zapatero, durante un mitin",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2009-03-18-economia-1237515809_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "González realizó la primera de estas afirmaciones ante la pregunta  de si el Gobierno podría trabajar más para luchar contra la crisis económica. \"Creo que sí, y Europa también, mucho más. Y eso siempre  me impacienta\", dijo, pero añadió: \"Ese no es mi problema. Mi  problema no es defender a un gobierno porque sea de mi color\".\nGonzález afirmó que el Gobierno español está haciendo \"lo posible\"  ante una crisis que es global y que deja poco margen de ajustes \"en  el nivel local-nacional\", pero lamentó: \"Somos incapaces de ver que  hay un problema de gobernanza y respuesta global a desafíos que son  globales, porque nos mata la pasión por lo local\".\nSobre la oposición, señaló que \"ojalá\" existiese una que dijera lo  que se puede hacer de manera seria y consistente. \"Algunos dicen que  menos mal que tenemos esa oposición, pero yo desearía, por el bien de  todos, que dijeran algo sensato\", añadió.\nExplicó que este problema surge porque a los políticos españoles  les \"mata la pasión por lo local\" y declaró que a él cada vez le  interesa menos ese debate, \"salvo porque perturba el juicio de los  ciudadanos\".\nEl ex presidente del Gobierno Felipe González también negó hoy  tajantemente que vaya a ser candidato a la presidencia de la Comisión  Europea, y afirmó que trabajará intensamente en la campaña europea  \"con esa inmensa libertad que da no pedir el voto para unos o para  otros\".\nGonzález advirtió sobre el peligro de que los partidos españoles  sólo se ocupen de temas locales y señaló que lo que le preocupa es  \"hasta qué punto se están estableciendo distancias con el proyecto  europeo cuando más se necesita\". \"Me parece que estamos en la  dirección equivocada y hay que corregirla\", concluyó.\nEl ex presidente realizó las declaraciones en el homenaje que la  Universitat Pompeu Fabra ofreció a la que fuera presidenta de Renfe y  presidenta del Consell Social de la universidad, Mercè Sala,  fallecida hace un año."
+        },
+        {
+            "id": "6473460360413184",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2008/05/13/economia/1210814619_850215.html",
+            "headlines": {
+                "subTitle": "El ex presidente del Gobierno Felipe González y el ex director del FMI Rodrigo Rato han coincidido hoy en un coloquio organizado por Repsol YPF en que la crisis económica no ha tocado fondo, pero han mostrado su confianza en que su duración no sea larga.",
+                "title": "Felipe González y Rato coinciden en que la crisis no ha tocado fondo",
+                "kicker": "Deterioro económico"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490983534-3e62194c1e6f5d176fd70f33c353d3e5",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El ex presidente del Gobierno Felipe González y el ex director del FMI Rodrigo Rato han coincidido hoy en un coloquio organizado por Repsol YPF en que la crisis económica no ha tocado fondo, pero han mostrado su confianza en que su duración no sea larga."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "CINCO DÍAS",
+                        "externalId": "126838",
+                        "normalizedName": "cinco_dias_a",
+                        "uri": "https://cincodias.elpais.com/autor/cinco_dias/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1210685580,
+            "isPremium": false,
+            "contentBody": "Rato ha señalado que en ámbitos como el mercado inmobiliario estadoundense la crisis \"no ha tocado suelo\", condición necesaria \"para que los efectos se suavicen\". La situación en Estados Unidos es de \"desaceleración muy fuerte, que podría llegar a ser recesión\", ha añadido.\nEn todo caso, el ex ministro popular ha dicho que ya se detectan algunas variables propias de una recuperación y que, pese a que \"la confianza de los bancos no se ha recuperado\", es probable que durante los resultados del primer y segundo trimestre del año las empresas reflejen \"todo lo que se ha perdido\".\nAdemás, se ha negado a adelantar un pronóstico acerca de lo que sucederá, ya que, ha ironizado, \"no es fácil hacer previsiones, sobre todo sobre el futuro\". \"Los bancos ya están captando capital\" y \"los efectos continuarán durante el tiempo de encarecimiento de crédito\", ha añadido antes de advertir, no obstante, de la \"mala combinación\" de alta inflación y bajo crecimiento.\nAnte este panorama y tras recordar que la actual coyuntura sólo es comparable a la de la crisis de 1929, el también ex vicepresidente económico del Gobierno de Aznar ha asegurado que sería bueno que los bancos centrales mantengan sus políticas de estabilidad de la inflación como medida para superar la crisis financiera.\nEn este sentido, Rato consideró que tras la crisis financiera es ¢difícil¢ que el precio del dinero vuelva a niveles ¢tan bajos¢ como los de los últimos años.\nPor su parte, Felipe González ha indicado que \"parece que la crisis va a continuar\", y ha pronosticado un ajuste \"duro pero rápido\". \"El ajuste rápido va a tener implicaciones sobre cómo se van a desplazar las relaciones de fuerza en el mundo\", ha enfatizado tras afirmar que no es una recesión pero sí \"se le puede y se le debe llamar crisis\".\n<b>Greenspan, el \"brujo\" de la economía</b>\nEl ex presidente del Gobierno ha ironizado sobre el ex presidente de la Reserva Federal Alan Greenspan, a quien ha calificado de \"brujo\", y ha asegurado en oposición a Rato que, al contrario de los ocurrido con el <i>crack</i> del 29, esta vez \"no se verá a la gente tirándose desde la planta cuarenta\" de los edificios.\nPor otra línea, González arremetido contra los teóricos que vinculan la producción de los biocombustibles con la actual crisis alimentaria y  la subida del precio de los cereales. \"Parece una broma responsabilizar de la crisis alimentaria al uso de cereales para hacer biocombustibles\", ha asegurado.\nAsimismo, se ha manifestado escéptico ante los compromisos de la Unión Europea para el año 2020 (reducir un 20% las emisiones de CO2 y hacer que las renovables supongan un 20% de la energía) porque exigirán cambios \"revolucionarios\", no muy probables dada la alta dependencia de la energía del petróleo, cuyo precio cada vez crece más.\nA su juicio, las tensiones mundiales van a aumentar en relación con la energía en los próximos años, ya que no hay bastante producción de crudo para satisfacer la demanda ni inversiones suficientes, si no hay una política \"de acompañamiento\" adecuada que haga posible predecir y anticipar situaciones."
+        },
+        {
+            "id": "4839370292985856",
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://cincodias.elpais.com/cincodias/2011/09/27/economia/1317259425_850215.html",
+            "headlines": {
+                "subTitle": "El expresidente del Gobierno Felipe González ha asegurado que comparte el fondo de la reciente reforma de la Constitución, pero ha asegurado que la \"forma\" de hacerlo ha sido \"absolutamente errónea\".",
+                "title": "Felipe González critica la manera en que se ha reformado la Constitución",
+                "kicker": "Jornadas organizadas por Esade"
+            },
+            "comments": {
+                "display": false,
+                "externalId": "1490961551-8329771836b4be7bbe4809c1dcc382c3",
+                "type": "eskup"
+            },
+            "metas": {
+                "description": "El expresidente del Gobierno Felipe González ha asegurado que comparte el fondo de la reciente reforma de la Constitución, pero ha asegurado que la \"forma\" de hacerlo ha sido \"absolutamente errónea\"."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "EFE",
+                        "externalId": "89617",
+                        "normalizedName": "agencia_efe_a",
+                        "uri": "https://cincodias.elpais.com/autor/agencia_efe/a/"
+                    }
+                }
+            ],
+            "updatedDate": 1317136680,
+            "isPremium": false,
+            "content": [
+                {
+                    "elements": [
+                        {
+                            "active": true,
+                            "photo": {
+                                "image": {
+                                    "mime-type": "image/jpeg",
+                                    "width": 250,
+                                    "uri": "https://d501.epimg.net/cincodias/imagenes/2011/09/27/economia/1317259420_740215_0000000001_noticia_normal.jpg",
+                                    "height": 118
+                                },
+                                "createdDate": 1317136980,
+                                "author": "Efe",
+                                "caption": "El expresidente del Gobierno Felipe González, durante su intervención en las Jornadas sobre Liderazgo que organiza Esade. A su derecha, el ministro de la Presidencia, Ramón Jáuregui",
+                                "source": {
+                                    "system": "PEP",
+                                    "externalId": "https-d501-epimg-net-cincodias-imagenes-2011-09-27-economia-1317259420_740215_0000000001_noticia_normal-jpg"
+                                },
+                                "additionalProperties": {
+                                    "showTitle": "false",
+                                    "showCaption": "true",
+                                    "showPlayButton": "false"
+                                }
+                            },
+                            "id": 1,
+                            "elementType": "elementPhoto",
+                            "primary": true
+                        }
+                    ]
+                }
+            ],
+            "contentBody": "González se ha referido brevemente a la reforma de la Carta Magna impulsada por el Gobierno de José Luis Rodríguez Zapatero para incluir un límite al déficit público del conjunto de las administraciones, durante su intervención en <b>las sextas jornadas sobre liderazgo que Esade ha organizado en el monasterio de Sant Benet de Bages</b>.\nEl expresidente, que no ha dado más detalles sobre los motivos de su discrepancia, ha asegurado a continuación que estaba \"de acuerdo con la estabilidad presupuestaria\", y ha añadido: \"Por cierto, como CiU, que está de acuerdo en la estabilidad presupuestaria, como cualquier partido político responsable\".\nPrecisamente hoy, en el mismo foro, el ponente de la Constitución <b>Miquel Roca</b> ha mostrado su malestar porque PP y PSOE no contaran con CiU para esta reforma de la Ley Fundamental.\n<b>Da la razón a Obama y pide obsesionarse más con crecer que con la deuda</b>\nGonzález ha dado la razón al presidente estadounidense, Barack Obama, en su diagnóstico acerca de cómo salir de la crisis económica y ha pedido que la obsesión sea crear empleo y volver a crecer, más que la deuda y el déficit.\nEl expresidente del Gobierno ha destacado que el déficit debe ajustarse, pero que \"no hay que alarmarse\" si España cierra 2011 con un desfase \"del 6,2%\" del PIB, en lugar del 6% marcado por la UE, \"porque ha caído la actividad\".\n<b>\"No hay que suicidarse al amanecer\"</b>, ha asegurado González, que ha lamentado esta \"obsesión por corregir el problema de la deuda, descuidando que se agrava (dicho problema) si no hay senda de crecimiento y de generación de empleo\".\n<b>El ministro de la Presidencia, Ramón Jáuregui</b>, que ha intervenido poco después que González, ha destacado que hasta 2009 el Gobierno español optó por \"estimular el consumo\" y por practicar una política \"keynesiana\", pero que al final de ese año \"los mercados exigieron a toda la Unión Europea una contracción fiscal brutal\".\n\"Hemos hecho lo que había que hacer\", ha insistido Jáuregui en defensa del Gobierno español, que ha destacado la reciente reforma de la Constitución para limitar el déficit y la celeridad con la que el Gobierno ha tomado medidas de todo tipo.\n\"No estoy en contra de este ajuste, pero hay que combinar la capacidad de ajustarse sensatamente con impulsar la demanda con políticas activas, que es lo que pide EE UU\", ha argumentado González, para quien <b>el déficit se puede corregir \"en tres tramos\" o \"más lentamente, en cinco tramos\"</b>, ha dicho a modo de ejemplo.\n\"Alemania debería estar liderando un tirón de la economía, pero nadie se atreve a decirle nada a Angela Merkel\", ha afirmado González, que ha opinado: <b>\"Obama tiene razón. Ellos temen que la contracción de la economía europea va a contaminar a EE UU\"</b>.\nObama opinó ayer que las medidas de los líderes europeos para combatir la crisis de la deuda \"no han sido todo lo rápidas que deberían\", y aseguró que esa situación \"está asustando al mundo\".\nPor otra parte, el expresidente del Gobierno español <b>ha defendido la creación de los eurobonos</b>, aunque con la limitación de que cubran sólo \"el 60%\" de la deuda.\nTambién se ha mostrado <b>de acuerdo en ampliar los recursos del Fondo Europeo de Estabilidad Financiera</b> (FEEF), y ha opinado que no tiene lógica que la UE sufrague el rescate de Irlanda y que este país tenga un Impuesto de Sociedades más bajo que el resto de la eurozona."
+        },
+        {
+            "id": 5117362487427072,
+            "type": "story",
+            "genre": "noticia",
+            "uri": "https://elpais.com/elpais/2007/12/19/actualidad/1198055822_850215.html",
+            "headlines": {
+                "subTitle": "El líder del PP ha contrastado hoy la ausencia de ideas sobre Europa de Zapatero con las que tiene el ex presidente Felipe González. -El presidente del Gobierno ha recibido hoy a González en Moncloa",
+                "title": "Rajoy alaba a Felipe González: \"Ha demostrado que tiene ideas sobre Europa\""
+            },
+            "metas": {
+                "description": "Rajoy alaba a Felipe González   Ha demostrado que tiene ideas sobre Europa . El líder del PP ha contrastado hoy la ausencia de ideas sobre Europa de Zapatero con las que tiene el ex presidente Felipe González. -El presidente del Gobierno ha recibido hoy a González en Moncloa."
+            },
+            "author": [
+                {
+                    "tagAuthor": {
+                        "name": "AGENCIAS",
+                        "externalId": "-1"
+                    }
+                }
+            ],
+            "updatedDate": 1198091640,
+            "contentBody": "El líder del PP, Mariano Rajoy, ha contrastado la ausencia de ideas sobre Europa del acutal jefe de Gobierno, José Luis Rodríguez Zapatero, con las que tiene el ex presidente Felipe González, cuya elección al frente del grupo de reflexión de la UE considera que es \"una honra para España\".\nRajoy se ha expresado así en su intervención en el pleno del Congreso que ha analizado las conclusiones de la última Cumbre de la UE. El líder del PP ha lamentado que la única idea que se le conoce a Zapatero \"sobre Europa es que España tenía demasiada influencia y había que recortarla\", antes de referirse al nombramiento de González como presidente del grupo de reflexión de la UE sobre el futuro de Europa.\nUna elección que, a su juicio, es \"una honra para España. Ha demostrado que tiene ideas, no todas buenas -ha añadido- pero al menos sí las tiene y confío en que algunas se puedan aprovechar\".\nRajoy ha añadido que le habría gustado que en la Cumbre se dijese, ante el futuro de Kosovo, que la integridad territorial y la estabilidad de las fronteras no pueden alterarse por actos unilaterales y constituyen elementos básicos del orden europeo.\n<b>Zapatero recibe a González en La Moncloa</b>\nEl presidente del Gobierno, José Luis Rodríguez Zapatero, ha recibido al ex jefe del Ejecutivo Felipe González para una \"primera toma de contacto\" con el recién creado Grupo de Reflexión sobre la UE, que González preside.\nZapatero ya tuvo ocasión de felicitar a González inmediatamente después de su elección como presidente del grupo en el pasado Consejo Europeo de Bruselas, ya que fue el propio jefe del Gobierno quien le llamó por teléfono para darle la noticia.\nAmbos tuvieron ocasión dos días antes de la elección de hablar en una cena de la posibilidad de la designación de González, quien en esa cita ya mostró a Zapatero su \"disponibilidad para servir a Europa y en este caso de manera muy singular a España\", según relató Zapatero en Bruselas el viernes pasado.\nEl Grupo de Reflexión tiene como misión identificar las cuestiones y acontecimientos a los que es probable que se enfrente la UE y analizar cómo podrían abordarse. En este sentido, se citan como temas el fortalecimiento del modelo económico europeo, el Estado de Derecho, el desarrollo sostenible, la seguridad mundial, las migraciones, la energía y la protección del clima.\nFelipe González vuelve a la Moncloa\nHa sido recibido por Zapatero para hablar de su reciente elección"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "after": 2
+        },
+        "next": "/app/search/assets/ep/text?q=felipe%20gonzalez&language=es&key=AIzaSyDuD4ngM71I_dc9igVUbwoDIUfR-jmkX7Q&pagecursor=2",
+        "limit": 25
+    },
+    "info": {
+        "total": {
+            "value": 10000,
+            "relation": "gte"
+        },
+        "highlight": {
+            "5982504159281152": {
+                "contentBody": [
+                    "13 años en el poder de <a href=\"https://elpais.com/diario/1993/06/07/espana/739404046_850215.html\"><em>Felipe</em>",
+                    "<em>González</em>,</a> el primer año fue de múltiples dificultades.",
+                    "<em>Felipe</em> <em>González</em> se presentó, en su primera salida en público, en el fuerte militar donde se había fraguado",
+                    "<em>Felipe</em> <em>González</em> recondujo su primer año con pragmatismo y pensando más en lo que venía para los españoles",
+                    "Hace cuatro décadas <em>Felipe</em> <em>González</em> lo logró."
+                ],
+                "headlines.title": [
+                    "Gustavo Petro y <em>Felipe</em> <em>González</em>, primer año de dos izquierdistas"
+                ]
+            },
+            "5584099670491136": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> participará este sábado en un acto de apoyo a Alfredo Pérez"
+                ],
+                "contentBody": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> participará este sábado en un acto de apoyo a Alfredo Pérez",
+                    "Justo una semana antes del congreso federal, <em>González</em> participará en un gran acto en Madrid en el que",
+                    "Intervendrán también la consejera andaluza Micaela Navarro, la diputada María <em>González</em>, que está ejerciendo"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> explicita su respaldo a Rubalcaba"
+                ]
+            },
+            "6520614135267328": {
+                "headlines.subTitle": [
+                    "\"<em>Felipe</em>, de depre nada, no estamos nada deprimidos los socialistas\", ha dicho hoy públicamente el presidente",
+                    "del Gobierno, <b>José Luis Rodríguez Zapatero</b>, al ex presidente <em>Felipe</em> <em>González</em>, en un acto celebrado"
+                ],
+                "contentBody": [
+                    "Ambos han compartido mesa de oradores, primero <em>González</em>, quien en su alocución ha hecho notar la \"depre",
+                    "Gobierno, sobre todo en los momentos \"más difíciles\", se ha dirigido al ex presidente y le ha dicho: \"<em>Felipe</em>",
+                    "<b>SMS de <em>González</em> a Zapatero: \"Hoy más que nunca tienes todo mi apoyo\"</b>\nEl jefe del Ejecutivo, José",
+                    "Luis Rodríguez Zapatero, ha revelado hoy el mensaje \"más cariñoso\" que ha recibido del ex presidente <em>Felipe</em>",
+                    "<em>González</em>, que llegó a su móvil tras anunciar el plan de ajuste: \"Hoy más que nunca tienes todo mi apoyo"
+                ],
+                "headlines.title": [
+                    "Zapatero a <em>Felipe</em> <em>González</em>: \"De depre, nada\""
+                ]
+            },
+            "5772018649661440": {
+                "headlines.subTitle": [
+                    "Pedro Sánchez afirma que respeta la opinión de su antecesor, <em>Felipe</em> <em>González</em>\n“Es el Comité Federal del"
+                ],
+                "contentBody": [
+                    "El expresidente del Gobierno <strong><em>Felipe</em> <em>González</em></strong> ha revelado que el secretario general del",
+                    "necesidad\", ha afirmado <a href=\"http://cincodias.com/tag/felipe_gonzalez_marquez/a/\" target=\"_blank\"><em>González</em>",
+                    "El secretario general también le trasladó a <em>González</em> que no tenía intención de formar un gobierno alternativo",
+                    "este miércoles un comunicado en el que afirma que <strong>respeta</strong> la opinión de su antecesor, <em>Felipe</em>",
+                    "<em>González</em>, pero subraya que su rechazo a un Gobierno de Mariano Rajoy es una posición que adoptó el Comité"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: “Me siento engañado por Pedro Sánchez”"
+                ]
+            },
+            "4890786520891392": {
+                "headlines.subTitle": [
+                    "Administración de Gas Natural Fenosa ha aprobado el nombramiento por cooptación del expresidente del Gobierno <em>Felipe</em>",
+                    "<em>González</em> como consejero independiente de la sociedad."
+                ],
+                "contentBody": [
+                    "El nombramiento de <b><em>Felipe</em> <em>González</em></b>, accionista de la sociedad, se produce en sustitución de José",
+                    "Según <b>Gas Natural Fenosa</b>, la incorporación de <em>Felipe</em> <em>González</em> permitirá a la sociedad energética",
+                    "<em>Felipe</em> <em>González</em> (Sevilla 1942) es licenciado en Derecho, Doctor Honoris Causa por la Universidad Católica"
+                ],
+                "headlines.title": [
+                    "Gas Natural Fenosa incorpora a <em>Felipe</em> <em>González</em> a su consejo de administración"
+                ]
+            },
+            "5528408104632320": {
+                "headlines.subTitle": [
+                    "El expresidente del Gobierno <em>Felipe</em> <em>González</em> ha asegurado hoy que \"no habrá independencia en ningún territorio"
+                ],
+                "contentBody": [
+                    "Durante su intervención en un acto del PSE en la localidad vizcaína de Barakaldo, <em>González</em> se ha referido",
+                    "\"No habrá independencia en ningún territorio de España\", ha afirmado <em>González</em>, quien ha añadido que quien",
+                    "<em>González</em>, que ha participado en un acto en apoyo del lehendakari y candidato del Partido Socialista a",
+                    "Para <em>Felipe</em> <em>González</em> \"el problema no son los recortes\", sino que \"con la excusa de los recortes se está",
+                    "En cuanto al terrorismo, <em>Felipe</em> <em>González</em> ha recordado que \"nunca\" hasta ahora había \"hablado en público"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: no habrá independencia en ningún territorio de España"
+                ]
+            },
+            "5746622843584512": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> admitió hoy un  \"error en el enfoque\" de la campaña electoral"
+                ],
+                "contentBody": [
+                    "En materia de diálogo social, <em>Felipe</em> <em>González</em> acusó al Gobierno de  José Luis Rodríguez Zapatero de estar",
+                    "También en materia económica, <em>González</em> incidió en la necesidad de  llegar a acuerdos para poder salir"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> admite un \"error de enfoque\" en la campaña de las europeas"
+                ]
+            },
+            "5742027228577792": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> cree que el \"abaratamiento del despido probablemente facilitará"
+                ],
+                "contentBody": [
+                    "En unas declaraciones a Televisión Española, <em>González</em> ha apuntado, no obstante, que, independientemente",
+                    "<em>Felipe</em> <em>González</em> ha admitido que no conoce a fondo la propuesta del Gobierno para reformar el mercado"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> ve probable que abaratar el despido facilite la contratación"
+                ]
+            },
+            "5202688656539648": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <b><em>Felipe</em> <em>González</em></b> consideró hoy que la crisis financiera mundial ha"
+                ],
+                "contentBody": [
+                    "<em>Felipe</em> <em>González</em> hizo esta reflexión durante su participación esta tarde en un semanario celebrado en",
+                    "acertar en un mundo extraordinariamente difícil y convulso lleno de estupideces demagógicas\", añadió <em>González</em>"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> cree que la crisis cogió desentrenados a los políticos"
+                ]
+            },
+            "5400246280519680": {
+                "headlines.subTitle": [
+                    "El expresidente del Gobierno <em>Felipe</em> <em>González</em> ha pedido al jefe del Ejecutivo, José Luis Rodríguez Zapatero",
+                    "está en condiciones para exigir la emisión de eurobonos, hay que plantarse de verdad\", ha defendido <em>González</em>"
+                ],
+                "contentBody": [
+                    "<em>González</em> ha comparado el beneficio que generarían la emisión de los eurobonos con <b>el impuesto de patrimonio",
+                    "<em>González</em> ha apostado por otras medidas de ahorro en la administración como suprimir las diputaciones",
+                    "\"Hagamos recortes, que ahora se llaman ajustes, pero que no se toque a la gente\", ha sostenido <em>González</em>",
+                    "<b>Sigue en directo</b> la intervención del expresidente del Gobierno <em>Felipe</em> <em>González</em>: <a href=\"http:"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> pide a Zapatero que se \"plante de verdad\" para exigir los eurobonos"
+                ]
+            },
+            "4827182752858112": {
+                "headlines.subTitle": [
+                    "ex presidente del Gobierno y presidente del Comité de Expertos para la Reforma de la Unión Europea, <em>Felipe</em>",
+                    "<em>González</em>, se mostró hoy confiado en que durante \"los próximos meses\" la coyuntura económica \"general"
+                ],
+                "contentBody": [
+                    "<b>Jornadas sobre el cambio climático</b>\n<em>Felipe</em> <em>González</em> se desplazó hoy a Mérida para clausurar las",
+                    "papel de los líderes mundiales\",aunque a su parecer \"no hay muchos\" políticos como el ex presidente <em>González</em>"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: \"El G-20 siempre se equivoca\""
+                ]
+            },
+            "5081393000873984": {
+                "contentBody": [
+                    "Ashurst refuerza el área de derecho público en Madrid con la incorporación de Alfonso <em>González</em>-Espejo",
+                    "<em>González</em>-Espejo es abogado del Estado y cuenta con una dilatada experiencia tanto en el sector público",
+                    "Por su parte, Alfonso <em>González</em>-Espejo manifestó estar encantado con su incorporación a Ashurst \"donde"
+                ],
+                "headlines.title": [
+                    "Ashurst ficha a Alfonso <em>González</em>-Espejo como 'counsel' para liderar el área de derecho público en Madrid"
+                ]
+            },
+            "5858191749414912": {
+                "headlines.subTitle": [
+                    "El ex presidente español <b><em>Felipe</em> <em>González</em></b> ha denunciado hoy que \"en este momento se está incubando"
+                ],
+                "contentBody": [
+                    "siguiente crisis financiera, porque no hay manera de reformar el sistema financiero\", ha lamentado <em>Felipe</em>",
+                    "<em>González</em> durante las jornadas que se están celebrando en el monasterio de Sant Benet de Bages organizadas",
+                    "<em>González</em> ha asegurado que \"los intereses son tan fuertes que estamos volviendo a hinchar la burbuja\",",
+                    "el G-20 sobre cómo reformar las finanzas mundiales y no creo que haya una propuesta\", ha criticado <em>González</em>",
+                    "Para <em>González</em>, el reto radica en que \"tenemos una tarea un poco más keynesiana: hay que reformar el funcionamiento"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> denuncia que se está incubando la nueva crisis financiera"
+                ]
+            },
+            "5480416945373184": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> se ha rebelado hoy contra la imposición de la <b>edad de"
+                ],
+                "contentBody": [
+                    "Durante su intervención, centrada en la crisis económica que ha golpeado especialmente a Europa, <em>González</em>",
+                    ", ha continuado <em>González</em> antes de recordar que la esperanza de vida de los europeos sigue subiendo y",
+                    "En su discurso, <em>González</em> ha aplaudido la supresión del denominado \"cheque-bebé\" por entender que no ha",
+                    "En relación a la crisis económica y su repercusión en los países de la UE, <em>González</em> ha criticado el \"",
+                    "<em>Felipe</em> <em>González</em> ha apostado por la política \"con mayúsculas\", a la que se ha ido \"arrinconando\", pero"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> se rebela contra la imposición de la edad de la jubilación"
+                ]
+            },
+            "6660968767553536": {
+                "headlines.subTitle": [
+                    "El expresidente del Gobierno <em>Felipe</em> <em>González</em> ha afirmado este miércoles que cualquier persona siente"
+                ],
+                "contentBody": [
+                    "En una entrevista concedida a TVE, <em>Felipe</em> <em>González</em> ha afirmado que \"Alguna envidia siente uno si en el",
+                    "Además, <em>Felipe</em> <em>Gonzalez</em> ha defendido la posición del PSOE en este sentido, ya que considera que \"desde"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>Gonzalez</em> aplaude que el consejero delegado de Barclays de cuentas al parlamento británico"
+                ]
+            },
+            "4596746013376512": {
+                "headlines.subTitle": [
+                    "“Me inquieta, no tengo ninguna seguridad”, ha dicho <em>González</em>"
+                ],
+                "contentBody": [
+                    "El expresidente del Gobierno<strong> <em>Felipe</em> <em>González</em></strong> ha dicho este martes que no se puede afirmar",
+                    "de pensiones: aportaciones a un debate” y ante la presencia de la ministra de Empleo, Fátima Báñez, <em>González</em>",
+                    "<em>González</em> ha considerado que hay muchas cosas que revisar y ha expresado su “inquietud” por el hecho de",
+                    "Javier Fernández, quien ha elogiado la figura del que fuese ministro de Trabajo Luis Martínez Noval con <em>Felipe</em>",
+                    "<em>González</em>."
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: “Mienten quienes dicen que las pensiones están garantizadas”"
+                ]
+            },
+            "5154560276430848": {
+                "headlines.subTitle": [
+                    "El ex presidente español <em>Felipe</em> <em>González</em> <b>ha defendido este jueves que la reforma laboral</b> puesta",
+                    "A preguntas de los periodistas en Santander, <em>González</em> ha confesado que le <b>\"gustaría\" que hubiera un"
+                ],
+                "contentBody": [
+                    "<em>Felipe</em> <em>González</em> se ha expresado así en un encuentro con los medios de comunicación previo a su participación"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> pide un contrato indefinido \"sin demasiada literatura, único y claro\""
+                ]
+            },
+            "4558186400972800": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno español <em>Felipe</em> <em>González</em> ha asegurado que para él \"sería un honor\" ser el"
+                ],
+                "contentBody": [
+                    "i_referralObject=9267343&amp;fromSearch=n\" target=\"_blank\">diario británico <i>Financial Times</i></a> , <em>González</em>",
+                    "Preguntado sobre los rumores sobre la eventual candidatura del ex primer ministro británico Tony Blair, <em>González</em>",
+                    "En la actualidad, <em>Felipe</em> <em>González</em> dirige el Grupo de Reflexión sobre el futuro de la Unión Europea, un",
+                    "En cualquier caso, <em>González</em> ha desmentido que Europa esté pasando por su peor momento: \"la crisis actual"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: \"Sería un honor presidir la UE, pero no seré candidato\""
+                ]
+            },
+            "5529232604135424": {
+                "headlines.subTitle": [
+                    "El ex presidente <em>Felipe</em> <em>González</em> ha reclamado hoy en Zaragoza, donde ha recogido el Premio Internacional"
+                ],
+                "contentBody": [
+                    "Durante una media hora, <em>González</em> ha rechazado el pesimismo que, a su juicio, hay en las nuevas generaciones",
+                    "<em>Felipe</em> <em>González</em> ha reclamado asimismo la reforma \"de verdad\" del sistema financiero, y en España también",
+                    "Si se sigue funcionando \"como un casino global\" se está incubando la próxima crisis, ha añadido <em>González</em>"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> pide a la UE un liderazgo compartido para salir de la crisis"
+                ]
+            },
+            "4607023778889728": {
+                "headlines.subTitle": [
+                    "El expresidente <em>Felipe</em> <em>González</em> critica que se repartan los cargos del Gobierno antes de acordar un programa"
+                ],
+                "contentBody": [
+                    "El expresidente <em>Felipe</em> <em>González</em> espera que el próximo Gobierno vaya más allá del eje tradicional de izquierdas",
+                    "Sin embargo, para <em>González</em> el acuerdo puede facilitar la gobernabilidad, porque \"si tienen un carguito",
+                    "<em>González</em> ha insistido en la importancia de poner la construcción europea al mismo nivel de importancia",
+                    "<em>González</em> lleva más de dos décadas fuera de la política activa.",
+                    "la Junta de Extremadura Juan Carlos Rodríguez Ibarra ha estado presente en el acto de la Fundación <em>Felipe</em>"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em>: “Como los jóvenes, yo también siento orfandad representativa”"
+                ]
+            },
+            "6228887742709760": {
+                "headlines.subTitle": [
+                    "El expresidente del Gobierno <em>Felipe</em> <em>González</em> ha pedido a Alemania que apoye a España ante la actual situación"
+                ],
+                "contentBody": [
+                    "que España pague unos intereses excesivamente altos, como resultados de la especulación\", ha indicado <em>González</em>",
+                    "En un artículo publicado en el diario alemán 'Bild' recogido por Europa Press, <em>González</em> ha indicado que",
+                    "Además, <em>González</em> ha expresado su deseo de que Alemania \"cumpla su compromiso con Europa\" para que se",
+                    "No obstante, <em>González</em> pide que su \"opinión no sea mal interpretada\" y España tiene que continuar \"corrigiendo"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> pide a Alemania que apoye a España"
+                ]
+            },
+            "5667937230782464": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> consideró hoy que el  también socialista José Luis Rodríguez",
+                    "Ante los rumores de que pueda ser candidato a  presidir la UE, <em>González</em> negó tal posibilidad y afirmó"
+                ],
+                "contentBody": [
+                    "<em>González</em> realizó la primera de estas afirmaciones ante la pregunta  de si el Gobierno podría trabajar",
+                    "<em>González</em> afirmó que el Gobierno español está haciendo \"lo posible\"  ante una crisis que es global y que",
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> también negó hoy  tajantemente que vaya a ser candidato",
+                    "<em>González</em> advirtió sobre el peligro de que los partidos españoles  sólo se ocupen de temas locales y señaló"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> cree que el Gobierno y Europa podrían hacer \"mucho más\" contra la crisis"
+                ]
+            },
+            "6473460360413184": {
+                "headlines.subTitle": [
+                    "El ex presidente del Gobierno <em>Felipe</em> <em>González</em> y el ex director del FMI Rodrigo Rato han coincidido hoy"
+                ],
+                "contentBody": [
+                    "Por su parte, <em>Felipe</em> <em>González</em> ha indicado que \"parece que la crisis va a continuar\", y ha pronosticado",
+                    "Por otra línea, <em>González</em> arremetido contra los teóricos que vinculan la producción de los biocombustibles"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> y Rato coinciden en que la crisis no ha tocado fondo"
+                ]
+            },
+            "4839370292985856": {
+                "headlines.subTitle": [
+                    "El expresidente del Gobierno <em>Felipe</em> <em>González</em> ha asegurado que comparte el fondo de la reciente reforma"
+                ],
+                "contentBody": [
+                    "<em>González</em> se ha referido brevemente a la reforma de la Carta Magna impulsada por el Gobierno de José Luis",
+                    "<b>Da la razón a Obama y pide obsesionarse más con crecer que con la deuda</b>\n<em>González</em> ha dado la razón",
+                    "<b>\"No hay que suicidarse al amanecer\"</b>, ha asegurado <em>González</em>, que ha lamentado esta \"obsesión por",
+                    "<b>El ministro de la Presidencia, Ramón Jáuregui</b>, que ha intervenido poco después que <em>González</em>, ha",
+                    "liderando un tirón de la economía, pero nadie se atreve a decirle nada a Angela Merkel\", ha afirmado <em>González</em>"
+                ],
+                "headlines.title": [
+                    "<em>Felipe</em> <em>González</em> critica la manera en que se ha reformado la Constitución"
+                ]
+            },
+            "5117362487427072": {
+                "headlines.subTitle": [
+                    "ha contrastado hoy la ausencia de ideas sobre Europa de Zapatero con las que tiene el ex presidente <em>Felipe</em>",
+                    "<em>González</em>.",
+                    "-El presidente del Gobierno ha recibido hoy a <em>González</em> en Moncloa"
+                ],
+                "contentBody": [
+                    "Europa del acutal jefe de Gobierno, José Luis Rodríguez Zapatero, con las que tiene el ex presidente <em>Felipe</em>",
+                    "<em>González</em>, cuya elección al frente del grupo de reflexión de la UE considera que es \"una honra para España",
+                    ", ha recibido al ex jefe del Ejecutivo <em>Felipe</em> <em>González</em> para una \"primera toma de contacto\" con el recién",
+                    "creado Grupo de Reflexión sobre la UE, que <em>González</em> preside.",
+                    "<em>Felipe</em> <em>González</em> vuelve a la Moncloa\nHa sido recibido por Zapatero para hablar de su reciente elección"
+                ],
+                "headlines.title": [
+                    "Rajoy alaba a <em>Felipe</em> <em>González</em>: \"Ha demostrado que tiene ideas sobre Europa\""
+                ]
+            }
+        }
+    }
+}

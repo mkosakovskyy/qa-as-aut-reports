@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"57be784eaddb3221ff2ac2595cedba79","name":"Casos fallados","statistic":{"failed":10,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":10}},{"uid":"618cd000e65227cfd477da968c3cf49d","name":"Casos pasados","statistic":{"failed":0,"broken":0,"skipped":0,"passed":17,"unknown":0,"total":17}}]}

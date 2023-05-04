@@ -1,0 +1,346 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": [ "content", "paging", "info" ],
+  "additionalItems": false,
+  "properties": {
+    "content": {
+      "type": "array",
+      "maxItems": 25,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "integer" },
+          "type": {
+            "type": "string",
+            "enum": [ "video", "gallery", "image", "story", "audio", "infographic" ]
+          },
+          "genre": {
+            "type": "string",
+            "enum": [
+              "noticia",
+              "analisis",
+              "columna",
+              "critica",
+              "cronica",
+              "editorial",
+              "elacento",
+              "entrevista",
+              "opinion",
+              "reportaje",
+              "graficos",
+              "infografia",
+              "especial",
+              "tribuna",
+              "vineta",
+              "revistadeprensa",
+              "cartasaldirector",
+              "cronologia",
+              "documentointegro",
+              "perfil",
+              "entrevistadigital",
+              "muyconfidencial",
+              "firmaInvitada",
+              "fotografia",
+              "fotogaleria",
+              "fotorrelato",
+              "avance",
+              "guia",
+              "descarga",
+              "demo",
+              "podcast",
+              "comic",
+              "guia_pagina",
+              "truco",
+              "fotonoticia",
+              "reportajes",
+              "videogaleria",
+              "directo",
+              "video",
+              "album",
+              "opinion_editorial",
+              "premium",
+              "previa",
+              "directoespecial",
+              "audio",
+              "esquela",
+              "story",
+              "blog",
+              "receta",
+              "noticiadeportiva",
+              "static-special",
+              "static-longform",
+              "directo-deportivo",
+              "cronica-deportivo",
+              "previa-deportivo"
+            ]
+          },
+          "schemaVersion": { "type": "string" },
+          "metas": {
+            "type": "object",
+            "$ref": "#/definitions/metas"
+          },
+          "language": { "type": "string" },
+          "createdDate": { "type": "integer" },
+          "updatedDate": { "type": "integer" },
+          "publishDate": { "type": "integer" },
+          "firstPublishDate": { "type": "integer" },
+          "displayDate": { "type": "integer" },
+          "status": {
+            "type": "string",
+            "enum": [ "draft", "visible", "published", "deleted" ]
+          },
+          "uri": {
+            "type": "string",
+            "$ref": "#/definitions/saneUrl"
+          },
+          "urisHistory": { "type": "array" },
+          "source": {
+            "type": "object",
+            "$ref": "#/definitions/source"
+          },
+          "author": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "integer" },
+                "signature": { "type": "string" },
+                "role": { "type": "string" },
+                "tagAuthor": {
+                  "type": "object",
+                  "properties": {
+                    "externalId": { "type": "string" },
+                    "name": { "type": "string" },
+                    "normalizedName": { "type": "string" },
+                    "additionalProperties": { "type": "object" },
+                    "uri": {
+                      "type": "string",
+                      "$ref": "#/definitions/saneUrl"
+                    },
+                    "image": {
+                      "type": "object",
+                      "$ref": "#/definitions/image"
+                    },
+                    "socialLinks": { "type": "object" },
+                    "epauth": { "type": "string" }
+                  }
+                }
+              }
+            }
+          },
+          "location": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "integer" },
+                "place": { "type": "string" },
+                "tagLocation": { "type": "object" }
+              }
+            }
+          },
+          "revision": { "type": "integer" },
+          "comments": {
+            "type": "object",
+            "properties": {
+              "externalId": { "type": "string" },
+              "type": { "type": "string" },
+              "allow": { "type": "boolean" },
+              "display": { "type": "boolean" },
+              "moderation": { "type": "boolean" },
+              "closeDate": { "type": "integer" },
+              "lang": { "type": "string" }
+            }
+          },
+          "headlines": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "titles": { "type": "object" },
+              "subTitle": { "type": "string" },
+              "subTitles": { "type": "object" },
+              "preKicker": { "type": "string" },
+              "kicker": { "type": "string" },
+              "typeKicker": { "type": "string" },
+              "uriKicker": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              },
+              "displayKicker": { "type": "boolean" },
+              "customKicker": { "type": "string" },
+              "uriCustomKicker": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              },
+              "titleExternalLink": { "type": "string" },
+              "preTitleExternalLink": { "type": "string" },
+              "uriExternalLink": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              }
+            }
+          },
+          "redirect": {
+            "type": "object",
+            "$ref": "#/definitions/link"
+          },
+          "taxonomy": { "type": "object" },
+          "additionalProperties": { "type": "object" },
+          "content": { "type": "array" },
+          "contentBody": { "type": "string" },
+          "externalRelation": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "dataId": { "type": "string" },
+                "type": { "type": "string" },
+                "subType": { "type": "string" },
+                "description": { "type": "string" },
+                "info": { "type": "object" }
+              }
+            }
+          },
+          "relatedAssets": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "uri": {
+                  "type": "object",
+                  "$ref": "#/definitions/link"
+                },
+                "photo": { "type": "object" },
+                "bulletType": { "type": "string" },
+                "boldFont": { "type": "boolean" },
+                "kicker": { "type": "string" },
+                "uriKicker": {
+                  "type": "object",
+                  "$ref": "#/definitions/link"
+                },
+                "description": { "type": "string" }
+              }
+            }
+          },
+          "originAsset": {
+            "type": "object",
+            "$ref": "#/definitions/source"
+          },
+          "clones": { "type": "array" },
+          "userModified": { "type": "string" },
+          "storyLength": {
+            "type": "object",
+            "properties": {
+              "paragraphCount": { "type": "integer" },
+              "wordCount": { "type": "integer" },
+              "charCount": { "type": "integer" }
+            }
+          },
+          "isPremium": { "type": "boolean" },
+          "contentRestrictions": { "type": "string" }
+        }
+      }
+    },
+    "paging": {
+      "type": "object",
+      "properties": {
+        "cursors": {
+          "type": "object",
+          "properties": {
+            "after": { "type": "integer" }
+          }
+        },
+        "next": { "type": "string" },
+        "limit": { "type": "integer" }
+      }
+    },
+    "info": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "total": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": "integer",
+              "minimum": 0,
+              "exclusiveMinimum": true
+            },
+            "relation": { "type": "string" }
+          }
+        },
+        "highlight": { "type": "object" }
+      }
+    }
+  },
+  "definitions": {
+    "saneUrl": { "format": "uri", "pattern": "^https?://" },
+    "link": {
+      "type": "object",
+      "properties": {
+        "uri": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "target": {
+          "type": "string",
+          "enum": [ "Blank", "Top" ]
+        },
+        "type": {
+          "type": "integer",
+          "enum": [ 301, 302 ]
+        },
+        "noFollow": { "type": "boolean" },
+        "noIndex": { "type": "boolean" },
+        "anchorText": { "type": "string" },
+        "additionalProperties": { "type": "object" }
+      }
+    },
+    "image": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "integer" },
+        "sourcePath": { "type": "string" },
+        "relativeUrl": { "type": "string" },
+        "sourceName": { "type": "string" },
+        "uri": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "width": { "type": "integer" },
+        "height": { "type": "integer" },
+        "size": { "type": "integer" },
+        "mime-type": { "type": "string" }
+      }
+    },
+    "metas": {
+      "type": "object",
+      "properties": {
+        "keywords": { "type": "array" },
+        "description": { "type": "string" },
+        "descriptionRRSS": { "type": "string" },
+        "preTitleSEO": { "type": "string" },
+        "rrssPhoto": {
+          "type": "object",
+          "$ref": "#/definitions/image"
+        },
+        "thumbnail": {
+          "type": "object",
+          "$ref": "#/definitions/image"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "externalId": { "type": "string" },
+        "system": { "type": "string" },
+        "editUrl": { "type": "string" },
+        "version": { "type": "string" },
+        "additionalProperties": { "type": "object" }
+      }
+    }
+  }
+}

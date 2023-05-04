@@ -1,0 +1,392 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": { "type": "integer" },
+    "userModified": { "type": "string" },
+    "schemaVersion": { "type": "string" },
+    "language": { "type": "string" },
+    "updatedDate": { "type": "integer" },
+    "publishDate": { "type": "integer" },
+    "status": {
+      "type": "string",
+      "enum": [ "draft", "published" ]
+    },
+    "uri": {
+      "type": "string",
+      "$ref": "#/definitions/saneUrl"
+    },
+    "metas": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "keywords": { "type": "array" },
+        "ogImage": { "type": "string" },
+        "ogTitle": { "type": "string" },
+        "ogUrl": { "type": "string" },
+        "linkRelRss": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "linkRelRssTitle": { "type": "string" },
+        "linkRelCanonical": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "twitterSite": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "fbAdmins": { "type": "string" },
+        "prettySectionName": { "type": "string" }
+      }
+    },
+    "siteStructure": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "businessUnit": { "type": "string" },
+        "site": { "type": "string" },
+        "section": { "type": "string" },
+        "subSection": { "type": "string" },
+        "notAllowAssets": { "type": "boolean" },
+        "hasHomepage": { "type": "boolean" },
+        "additionalProperties": { "type": "object" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "$ref": "#/definitions/source"
+    },
+    "revision": { "type": "integer" },
+    "areas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "integer" },
+          "name": { "type": "string" },
+          "active": { "type": "boolean" },
+          "header": {
+            "type": "object",
+            "$ref": "#/definitions/header"
+          },
+          "groups": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "integer" },
+                "title": { "type": "string" },
+                "name": { "type": "string" },
+                "type": {
+                  "type": "string",
+                  "enum": [ "manual", "automatic", "block" ]
+                },
+                "contents": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": { "type": "boolean" },
+                      "type": {
+                        "type": "string",
+                        "enum": [ "asset", "related", "promo", "item", "include", "ad", "alertBar", "html", "playlist" ]
+                      },
+                      "active": { "type": "boolean" },
+                      "isPremium": { "type": "boolean" },
+                      "author": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": { "type": "integer" },
+                            "signature": { "type": "string" },
+                            "role": { "type": "string" },
+                            "tagAuthor": {
+                              "type": "object",
+                              "properties": {
+                                "externalId": { "type": "string" },
+                                "name": { "type": "string" },
+                                "normalizedName": { "type": "string" },
+                                "additionalProperties": { "type": "object" },
+                                "uri": {
+                                  "type": "string",
+                                  "$ref": "#/definitions/saneUrl"
+                                },
+                                "image": {
+                                  "type": "object",
+                                  "$ref": "#/definitions/image"
+                                },
+                                "socialLinks": { "type": "object" },
+                                "epauth": { "type": "string" }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "publishDate": { "type": "integer" },
+                      "isInternalContent": { "type": "boolean" },
+                      "contentRestrictions": { "type": "string" },
+                      "headlines": {
+                        "type": "object",
+                        "properties": {
+                          "title": { "type": "string" },
+                          "titles": { "type": "object" },
+                          "subTitle": { "type": "string" },
+                          "subTitles": { "type": "object" },
+                          "preKicker": { "type": "string" },
+                          "kicker": { "type": "string" },
+                          "typeKicker": { "type": "string" },
+                          "uriKicker": {
+                            "type": "object",
+                            "$ref": "#/definitions/link"
+                          },
+                          "displayKicker": { "type": "boolean" },
+                          "customKicker": { "type": "string" },
+                          "uriCustomKicker": {
+                            "type": "object",
+                            "$ref": "#/definitions/link"
+                          },
+                          "titleExternalLink": { "type": "string" },
+                          "preTitleExternalLink": { "type": "string" },
+                          "uriExternalLink": {
+                            "type": "object",
+                            "$ref": "#/definitions/link"
+                          }
+                        }
+                      },
+                      "lead": {
+                        "type": "object",
+                        "properties": {
+                          "align": { "type": "string" },
+                          "elementType": { "type": "string" },
+                          "content": { "type": "string" },
+                          "tag": { "type": "string" }
+                        }
+                      },
+                      "location": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": { "type": "integer" },
+                            "place": { "type": "string" },
+                            "tagLocation": { "type": "object" }
+                          }
+                        }
+                      },
+                      "genre": { "type": "string" },
+                      "elements": { "type": "array" },
+                      "comments": {
+                        "type": "object",
+                        "properties": {
+                          "externalId": { "type": "string" },
+                          "type": { "type": "string" },
+                          "allow": { "type": "boolean" },
+                          "display": { "type": "boolean" },
+                          "moderation": { "type": "boolean" },
+                          "closeDate": { "type": "integer" },
+                          "lang": { "type": "string" }
+                        }
+                      },
+                      "uri": {
+                        "type": "object",
+                        "properties": {
+                          "uri": {
+                            "type": "string",
+                            "$ref": "#/definitions/saneUrl"
+                          }
+                        }
+                      },
+                      "additionalProperties": { "type": "object" }
+                    }
+                  }
+                },
+                "resourcePhotos": { "type": "array" },
+                "resourceURL": {
+                  "type": "object",
+                  "$ref": "#/definitions/link"
+                },
+                "header": {
+                  "type": "object",
+                  "$ref": "#/definitions/header"
+                }
+              }
+            }
+          },
+          "additionalProperties": { "type": "object" }
+        }
+      }
+    },
+    "additionalProperties": { "type": "object" }
+  },
+  "definitions": {
+    "saneUrl": { "format": "uri", "pattern": "^https?://" },
+    "link": {
+      "type": "object",
+      "properties": {
+        "uri": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "target": {
+          "type": "string",
+          "enum": [ "Blank", "Top" ]
+        },
+        "type": {
+          "type": "integer",
+          "enum": [ 301, 302 ]
+        },
+        "noFollow": { "type": "boolean" },
+        "noIndex": { "type": "boolean" },
+        "anchorText": { "type": "string" },
+        "additionalProperties": { "type": "object" }
+      }
+    },
+    "image": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "integer" },
+        "sourcePath": { "type": "string" },
+        "relativeUrl": { "type": "string" },
+        "sourceName": { "type": "string" },
+        "uri": {
+          "type": "string",
+          "$ref": "#/definitions/saneUrl"
+        },
+        "width": { "type": "integer" },
+        "height": { "type": "integer" },
+        "size": { "type": "integer" },
+        "mime-type": { "type": "string" }
+      }
+    },
+    "metas": {
+      "type": "object",
+      "properties": {
+        "keywords": { "type": "array" },
+        "description": { "type": "string" },
+        "descriptionRRSS": { "type": "string" },
+        "preTitleSEO": { "type": "string" },
+        "rrssPhoto": {
+          "type": "object",
+          "$ref": "#/definitions/image"
+        },
+        "thumbnail": {
+          "type": "object",
+          "$ref": "#/definitions/image"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "externalId": { "type": "string" },
+        "system": { "type": "string" },
+        "editUrl": { "type": "string" },
+        "version": { "type": "string" },
+        "additionalProperties": { "type": "object" }
+      }
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "integer" },
+        "title": { "type": "string" },
+        "subTitle": { "type": "string" },
+        "link": {
+          "type": "object",
+          "$ref": "#/definitions/link"
+        },
+        "updatedDate": { "type": "integer" },
+        "titleMenu": { "type": "string" },
+        "menu": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "name": { "type": "string" },
+              "uri": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              },
+              "geoUris": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "$ref": "#/definitions/link"
+                }
+              },
+              "updatedDate": { "type": "integer" },
+              "additionalProperties": { "type": "object" }
+            }
+          }
+        },
+        "button": {
+          "type": "object",
+          "properties": {
+            "title": { "type": "string" },
+            "name": { "type": "string" },
+            "uri": {
+              "type": "object",
+              "$ref": "#/definitions/link"
+            },
+            "geoUris": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              }
+            },
+            "updatedDate": { "type": "integer" },
+            "additionalProperties": { "type": "object" }
+          }
+        },
+        "subscription": {
+          "type": "object",
+          "properties": {
+            "title": { "type": "string" },
+            "name": { "type": "string" },
+            "uri": {
+              "type": "object",
+              "$ref": "#/definitions/link"
+            },
+            "geoUris": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              }
+            },
+            "updatedDate": { "type": "integer" },
+            "additionalProperties": { "type": "object" }
+          }
+        },
+        "sponsor": {
+          "type": "object",
+          "properties": {
+            "title": { "type": "string" },
+            "name": { "type": "string" },
+            "uri": {
+              "type": "object",
+              "$ref": "#/definitions/link"
+            },
+            "geoUris": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "$ref": "#/definitions/link"
+              }
+            },
+            "updatedDate": { "type": "integer" },
+            "additionalProperties": { "type": "object" }
+          }
+        },
+        "externalContentFile": { "type": "string" },
+        "additionalProperties": { "type": "object" }
+      }
+    }
+  }
+}
