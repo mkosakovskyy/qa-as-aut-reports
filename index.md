@@ -1,4 +1,4 @@
-# HIBERUS - QUALITY ASSURANCE
+# HIBERUS - QA
 
 Reportes de los casos de prueba automatizados para PRISA Media
 
