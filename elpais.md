@@ -1,5 +1,3 @@
----
-title: El País
-layout: elpais
-filename: mobile
----
+# ElPais
+
+Esta es la página de ElPais. Aquí puedes encontrar información sobre ElPais.
